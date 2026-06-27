@@ -1,3 +1,182 @@
+import fs from "fs";
+import zlib from "zlib";
+import readline from "readline";
+import { Readable } from "stream";
+
+const M3U_URL = "https://iu-ott.akvado-lso123.workers.dev/ott.m3u?user-agent=vj-14-1ogfiva";
+const EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz";
+
+// Levenshtein Algorithm အသုံးပြု၍ စာသားချင်း တူညီမှု ရာခိုင်နှုန်းကို တွက်ချက်ခြင်း
+function getSimilarity(s1, s2) {
+    if (s1 === s2) return 1.0;
+    let longer = s1.length >= s2.length ? s1 : s2;
+    let shorter = s1.length < s2.length ? s1 : s2;
+    if (longer.length === 0) return 1.0;
+    
+    let costs = [];
+    for (let i = 0; i <= longer.length; i++) {
+        let lastValue = i;
+        for (let j = 0; j <= shorter.length; j++) {
+            if (i === 0) costs[j] = j;
+            else {
+                if (j > 0) {
+                    let newValue = costs[j - 1];
+                    if (longer.charAt(i - 1) !== shorter.charAt(j - 1)) {
+                        newValue = Math.min(Math.min(newValue, lastValue), costs[j]) + 1;
+                    }
+                    costs[j - 1] = lastValue;
+                    lastValue = newValue;
+                }
+            }
+        }
+        if (i > 0) costs[shorter.length] = lastValue;
+    }
+    return (longer.length - costs[shorter.length]) / parseFloat(longer.length);
+}
+
+// Channel နာမည်များကို တိုက်ဆိုင်စစ်ဆေးရာတွင် လွယ်ကူစေရန် သန့်စင်ခြင်း
+function cleanName(str) {
+    let s = str.toLowerCase();
+    s = s.replace(/-\s*vpn/g, ''); 
+    s = s.replace(/\b(hd|fhd|uhd|4k|sd|tv)\b/g, ''); 
+    s = s.replace(/\[.*?\]|\(.*?\)/g, ''); 
+    s = s.replace(/[^a-z0-9]/g, ''); 
+    return s;
+}
+
+async function generateFinalM3U() {
+    console.log(`🔄 Fetching Original Playlist from: ${M3U_URL}`);
+
+    try {
+        const response = await fetch(M3U_URL, { headers: { "User-Agent": "vj-14-1ogfiva" } });
+        if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
+        const m3uText = await response.text();
+
+        const lines = m3uText.split('\n');
+        const filteredChannels = [];
+        let currentExtinf = "";
+        let droppedCount = 0;
+
+        console.log("🧹 Filtering Russian channels and grouping sports...");
+
+        for (let i = 0; i < lines.length; i++) {
+            let line = lines[i].trim();
+            
+            if (line.startsWith('#EXTINF:')) {
+                currentExtinf = line;
+            } else if (line.startsWith('http') && currentExtinf !== "") {
+                let groupMatch = currentExtinf.match(/group-title="([^"]*)"/i);
+                let groupTitle = groupMatch ? groupMatch[1] : "";
+                let nameMatch = currentExtinf.match(/,(.+?)$/);
+                let channelName = nameMatch ? nameMatch[1].trim() : "";
+
+                const isRuGroup = /[\u0400-\u04FF]|Russia|🇷🇺|\bru\b/i.test(groupTitle);
+                const isSport = /sport|спорт|match|футбол|арена|бойцовский|ufc|arena|football/i.test(channelName) || /sport|спорт/i.test(groupTitle);
+
+                let keep = true;
+
+                if (isRuGroup) {
+                    if (isSport) {
+                        if (groupMatch) {
+                            currentExtinf = currentExtinf.replace(`group-title="${groupTitle}"`, `group-title="Sport from Russia GP"`);
+                        } else {
+                            currentExtinf = currentExtinf.replace('#EXTINF:-1', '#EXTINF:-1 group-title="Sport from Russia GP"');
+                        }
+                    } else {
+                        keep = false;
+                        droppedCount++;
+                    }
+                }
+
+                if (keep && channelName) {
+                    filteredChannels.push({
+                        extinf: currentExtinf,
+                        url: line,
+                        name: channelName
+                    });
+                }
+                currentExtinf = "";
+            }
+        }
+        console.log(`✅ Kept ${filteredChannels.length} channels. Dropped ${droppedCount} Russian non-sport channels.`);
+
+        // ၂။ epgshare01 မှ EPG ဖိုင်အား Memory Limit မကျော်စေရန် Stream ဖြင့် ဖတ်ယူခြင်း
+        console.log(`\n🔄 Downloading and parsing real EPG database from epgshare01 (Stream Mode)...`);
+        const epgRes = await fetch(EPG_URL);
+        if (!epgRes.ok) throw new Error("Failed to fetch EPG XML.GZ");
+        
+        const epgChannels = [];
+        const gunzip = zlib.createGunzip();
+        const nodeStream = Readable.fromWeb(epgRes.body).pipe(gunzip);
+        const rl = readline.createInterface({ input: nodeStream, crlfDelay: Infinity });
+
+        let currentId = null;
+        
+        // ဖိုင်ကို တစ်ကြောင်းချင်းစီ (Line by Line) ဖြတ်ဖတ်ခြင်း (String Too Long Error မတက်စေရန်)
+        for await (const line of rl) {
+            if (line.includes('<channel id=')) {
+                const idMatch = line.match(/<channel id="([^"]+)">/);
+                if (idMatch) currentId = idMatch[1];
+                
+                if (currentId && line.includes('<display-name')) {
+                    const nameMatch = line.match(/<display-name[^>]*>([^<]+)<\/display-name>/);
+                    if (nameMatch) {
+                        epgChannels.push({ id: currentId, name: nameMatch[1], clean: cleanName(nameMatch[1]) });
+                        currentId = null;
+                    }
+                }
+            } else if (currentId && line.includes('<display-name')) {
+                const nameMatch = line.match(/<display-name[^>]*>([^<]+)<\/display-name>/);
+                if (nameMatch) {
+                    epgChannels.push({ id: currentId, name: nameMatch[1], clean: cleanName(nameMatch[1]) });
+                    currentId = null;
+                }
+            } else if (line.includes('</channel>')) {
+                currentId = null;
+            }
+        }
+        console.log(`✅ Successfully loaded ${epgChannels.length} real EPG IDs from epgshare01.`);
+
+        // ၃။ လိုင်းများကို လျှပ်တစ်ပြက် တိုက်ဆိုင်စစ်ဆေးခြင်း
+        console.log("\n🧠 Mapping channels locally (Super Fast & 100% Accurate)...");
+        let mappedCount = 0;
+
+        for (let ch of filteredChannels) {
+            let m3uClean = cleanName(ch.name);
+            let bestId = "";
+            let bestScore = 0;
+
+            for (let epg of epgChannels) {
+                if (m3uClean === epg.clean) {
+                    bestId = epg.id;
+                    bestScore = 1.0;
+                    break;
+                }
+                
+                if (Math.abs(m3uClean.length - epg.clean.length) > 15) continue;
+
+                let score = getSimilarity(m3uClean, epg.clean);
+                
+                if ((m3uClean.includes(epg.clean) || epg.clean.includes(m3uClean)) && score > 0.5) {
+                    score += 0.15; 
+                }
+
+                if (score > bestScore && score >= 0.8) {
+                    bestScore = score;
+                    bestId = epg.id;
+                }
+            }
+
+            if (bestId) {
+                if (ch.extinf.includes('tvg-id=')) {
+                    ch.extinf = ch.extinf.replace(/tvg-id="[^"]*"/, `tvg-id="${bestId}"`);
+                } else {
+                    ch.extinf = ch.extinf.replace('#EXTINF:-1', `#EXTINF:-1 tvg-id="${bestId}"`);
+                }
+                mappedCount++;
+            }
+        }
+
         console.log(`✅ Successfully mapped ${mappedCount} out of ${filteredChannels.length} channels.`);
 
         // ၄။ အသင့်အသုံးပြုနိုင်သော M3U ဖိုင်အသစ် တည်ဆောက်ခြင်း
