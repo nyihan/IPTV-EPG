@@ -1,6 +1,6 @@
 import fs from "fs";
 
-// ဤနေရာတွင် GROQ_API_KEY ဟု ပြောင်းလဲအသုံးပြုထားပါသည်
+// API Keys များကို ခွဲခြားယူခြင်း
 const rawKeys = process.env.GROQ_API_KEYS || process.env.GROQ_API_KEY || "";
 const apiKeys = rawKeys.split(/[\n\r,]+/).map(key => key.trim()).filter(key => key.length > 0);
 
@@ -12,7 +12,6 @@ if (apiKeys.length === 0) {
 console.log(`🔑 Loaded ${apiKeys.length} Groq API keys for rotation.`);
 let currentKeyIndex = 0;
 
-// မူရင်းလင့်ခ်နှင့် EPGShare01 ၏ အဓိက EPG လင့်ခ်
 const M3U_URL = "https://iu-ott.akvado-lso123.workers.dev/ott.m3u?user-agent=vj-14-1ogfiva";
 const EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz";
 
@@ -33,7 +32,6 @@ async function generateFinalM3U() {
 
         console.log("🧹 Filtering Russian channels and grouping sports...");
 
-        // ၁။ M3U ကို စစ်ထုတ်ခြင်း နှင့် Group ဖွဲ့ခြင်း
         for (let i = 0; i < lines.length; i++) {
             let line = lines[i].trim();
             
@@ -45,16 +43,18 @@ async function generateFinalM3U() {
                 let nameMatch = currentExtinf.match(/,(.+?)$/);
                 let channelName = nameMatch ? nameMatch[1].trim() : "";
 
-                // ရုရှား Group ဟုတ်/မဟုတ် ကို Group နာမည်ကိုသာကြည့်ပြီး တိကျစွာ စစ်ဆေးခြင်း
-                const isRuGroup = /🇷🇺|russia|\bru\b|россия/i.test(groupTitle);
+                // ရုရှားစာ (Cyrillic) ပါဝင်သော Group များအားလုံးကို အလိုအလျောက် ဖမ်းယူခြင်း
+                // \u0400-\u04FF သည် ရုရှားအက္ခရာများအားလုံးကို သိမ်းကျုံးဖမ်းယူနိုင်သော Unicode ဖြစ်ပါသည်
+                const isRuGroup = /[\u0400-\u04FF]|Russia|🇷🇺|\bru\b/i.test(groupTitle);
                 
                 // အားကစားလိုင်း ဟုတ်/မဟုတ် စစ်ဆေးခြင်း
-                const isSport = /sport|спорт|match|футбол|арена|бойцовский|ufc|arena|football/i.test(channelName) || /sport/i.test(groupTitle);
+                const isSport = /sport|спорт|match|футбол|арена|бойцовский|ufc|arena|football/i.test(channelName) || /sport|спорт/i.test(groupTitle);
 
                 let keep = true;
 
                 if (isRuGroup) {
                     if (isSport) {
+                        // ရုရှား Group ထဲမှ အားကစားလိုင်းဖြစ်ပါက Group နာမည်ကို "Sport from Russia GP" သို့ ပြောင်းမည်
                         if (groupMatch) {
                             currentExtinf = currentExtinf.replace(`group-title="${groupTitle}"`, `group-title="Sport from Russia GP"`);
                         } else {
@@ -62,6 +62,7 @@ async function generateFinalM3U() {
                         }
                         groupTitle = "Sport from Russia GP";
                     } else {
+                        // ရုရှား Group တွင်းရှိ အားကစားမဟုတ်သော တခြားလိုင်းများကို ဖြုတ်ချမည်
                         keep = false;
                         droppedCount++;
                     }
@@ -83,7 +84,7 @@ async function generateFinalM3U() {
         console.log(`✅ Kept ${filteredChannels.length} channels. Dropped ${droppedCount} non-sport Russian channels.`);
 
         let finalMappingData = {};
-        const chunkSize = 50; // Groq ၏ Rate Limit ကိုငဲ့ကာ တစ်ခါပို့လျှင် ၅၀ စီသို့ လျှော့ချထားပါသည်
+        const chunkSize = 30; // Token Limit မကျော်စေရန် လိုင်း ၃၀ သို့ လျှော့ချထားပါသည်
 
         // ၂။ Groq AI ဖြင့် epgshare01 EPG ID များကို Map လုပ်ခြင်း
         for (let i = 0; i < filteredChannels.length; i += chunkSize) {
@@ -110,7 +111,6 @@ async function generateFinalM3U() {
             while (!success && retries > 0) {
                 const currentApiKey = apiKeys[currentKeyIndex];
                 try {
-                    // Groq ၏ မြန်ဆန်သော Llama-3-70b မော်ဒယ်အား Native Fetch ဖြင့် တိုက်ရိုက်ခေါ်ယူခြင်း
                     const aiResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
                         method: "POST",
                         headers: {
@@ -118,14 +118,15 @@ async function generateFinalM3U() {
                             "Content-Type": "application/json"
                         },
                         body: JSON.stringify({
-                            model: "llama3-70b-8192", // Groq ၏ အကောင်းဆုံးမော်ဒယ်
+                            model: "llama-3.3-70b-versatile", // Groq ၏ အသစ်ဆုံးနှင့် အတည်ငြိမ်ဆုံး မော်ဒယ်
                             messages: [{ role: "user", content: prompt }],
                             temperature: 0.1
                         })
                     });
 
                     if (!aiResponse.ok) {
-                        throw new Error(`Groq API Error: ${aiResponse.status} ${aiResponse.statusText}`);
+                        const errData = await aiResponse.text();
+                        throw new Error(`Groq API Error: ${aiResponse.status} - ${errData}`);
                     }
 
                     const aiData = await aiResponse.json();
@@ -150,7 +151,7 @@ async function generateFinalM3U() {
                     retries--;
                     currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
                     if (retries > 0) {
-                        console.log(`⚠️ API Error. Retrying with next key... (${retries} left)`);
+                        console.log(`⚠️ Error: ${apiError.message}. Retrying with next key... (${retries} left)`);
                         await new Promise(resolve => setTimeout(resolve, 5000)); 
                     } else {
                         console.log(`❌ Failed chunk ${chunkNumber} after multiple retries.`);
