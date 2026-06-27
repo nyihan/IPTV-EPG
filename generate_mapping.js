@@ -6,8 +6,9 @@ import { Readable } from "stream";
 const M3U_URL = "https://iu-ott.akvado-lso123.workers.dev/ott.m3u?user-agent=vj-14-1ogfiva";
 const EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz";
 
-// Levenshtein Algorithm အသုံးပြု၍ စာသားချင်း တူညီမှု ရာခိုင်နှုန်းကို တွက်ချက်ခြင်း
+// စာသားချင်း တူညီမှု ရာခိုင်နှုန်းကို တွက်ချက်ခြင်း
 function getSimilarity(s1, s2) {
+    if (!s1 || !s2) return 0;
     if (s1 === s2) return 1.0;
     let longer = s1.length >= s2.length ? s1 : s2;
     let shorter = s1.length < s2.length ? s1 : s2;
@@ -34,14 +35,15 @@ function getSimilarity(s1, s2) {
     return (longer.length - costs[shorter.length]) / parseFloat(longer.length);
 }
 
-// Channel နာမည်များကို တိုက်ဆိုင်စစ်ဆေးရာတွင် လွယ်ကူစေရန် သန့်စင်ခြင်း
+// Channel နာမည်များကို အတိအကျတိုက်စစ်နိုင်ရန် သန့်စင်ခြင်း
 function cleanName(str) {
+    if (!str) return "";
     let s = str.toLowerCase();
     s = s.replace(/-\s*vpn/g, ''); 
-    s = s.replace(/\b(hd|fhd|uhd|4k|sd|tv)\b/g, ''); 
+    s = s.replace(/\b(hd|fhd|uhd|4k|sd|tv|plus)\b/g, ''); 
     s = s.replace(/\[.*?\]|\(.*?\)/g, ''); 
     s = s.replace(/[^a-z0-9]/g, ''); 
-    return s;
+    return s.trim();
 }
 
 async function generateFinalM3U() {
@@ -80,7 +82,11 @@ async function generateFinalM3U() {
                         if (groupMatch) {
                             currentExtinf = currentExtinf.replace(`group-title="${groupTitle}"`, `group-title="Sport from Russia GP"`);
                         } else {
-                            currentExtinf = currentExtinf.replace('#EXTINF:-1', '#EXTINF:-1 group-title="Sport from Russia GP"');
+                            // ကော်မာ (,) ရှေ့တွင် group-title ထည့်သွင်းခြင်း (ပိုမိုလုံခြုံသောနည်းလမ်း)
+                            let lastComma = currentExtinf.lastIndexOf(',');
+                            if (lastComma !== -1) {
+                                currentExtinf = currentExtinf.substring(0, lastComma) + ` group-title="Sport from Russia GP"` + currentExtinf.substring(lastComma);
+                            }
                         }
                     } else {
                         keep = false;
@@ -100,7 +106,6 @@ async function generateFinalM3U() {
         }
         console.log(`✅ Kept ${filteredChannels.length} channels. Dropped ${droppedCount} Russian non-sport channels.`);
 
-        // ၂။ epgshare01 မှ EPG ဖိုင်အား Memory Limit မကျော်စေရန် Stream ဖြင့် ဖတ်ယူခြင်း
         console.log(`\n🔄 Downloading and parsing real EPG database from epgshare01 (Stream Mode)...`);
         const epgRes = await fetch(EPG_URL);
         if (!epgRes.ok) throw new Error("Failed to fetch EPG XML.GZ");
@@ -112,7 +117,6 @@ async function generateFinalM3U() {
 
         let currentId = null;
         
-        // ဖိုင်ကို တစ်ကြောင်းချင်းစီ (Line by Line) ဖြတ်ဖတ်ခြင်း (String Too Long Error မတက်စေရန်)
         for await (const line of rl) {
             if (line.includes('<channel id=')) {
                 const idMatch = line.match(/<channel id="([^"]+)">/);
@@ -121,14 +125,27 @@ async function generateFinalM3U() {
                 if (currentId && line.includes('<display-name')) {
                     const nameMatch = line.match(/<display-name[^>]*>([^<]+)<\/display-name>/);
                     if (nameMatch) {
-                        epgChannels.push({ id: currentId, name: nameMatch[1], clean: cleanName(nameMatch[1]) });
+                        // Display Name သာမက Channel ID အစစ်ကိုပါ သန့်စင်ပြီး ရှာဖွေရာတွင် အသုံးပြုရန် မှတ်သားထားမည်
+                        let pureId = currentId.split('.')[0]; 
+                        epgChannels.push({ 
+                            id: currentId, 
+                            name: nameMatch[1], 
+                            clean: cleanName(nameMatch[1]),
+                            cleanId: cleanName(pureId) 
+                        });
                         currentId = null;
                     }
                 }
             } else if (currentId && line.includes('<display-name')) {
                 const nameMatch = line.match(/<display-name[^>]*>([^<]+)<\/display-name>/);
                 if (nameMatch) {
-                    epgChannels.push({ id: currentId, name: nameMatch[1], clean: cleanName(nameMatch[1]) });
+                    let pureId = currentId.split('.')[0];
+                    epgChannels.push({ 
+                        id: currentId, 
+                        name: nameMatch[1], 
+                        clean: cleanName(nameMatch[1]),
+                        cleanId: cleanName(pureId)
+                    });
                     currentId = null;
                 }
             } else if (line.includes('</channel>')) {
@@ -137,7 +154,6 @@ async function generateFinalM3U() {
         }
         console.log(`✅ Successfully loaded ${epgChannels.length} real EPG IDs from epgshare01.`);
 
-        // ၃။ လိုင်းများကို လျှပ်တစ်ပြက် တိုက်ဆိုင်စစ်ဆေးခြင်း
         console.log("\n🧠 Mapping channels locally (Super Fast & 100% Accurate)...");
         let mappedCount = 0;
 
@@ -147,31 +163,40 @@ async function generateFinalM3U() {
             let bestScore = 0;
 
             for (let epg of epgChannels) {
-                if (m3uClean === epg.clean) {
+                // Name (သို့) ID တစ်ခုခုနှင့် ကွက်တိတူပါက ချက်ချင်းရွေးမည်
+                if (m3uClean === epg.clean || m3uClean === epg.cleanId) {
                     bestId = epg.id;
                     bestScore = 1.0;
                     break;
                 }
                 
-                if (Math.abs(m3uClean.length - epg.clean.length) > 15) continue;
+                // စာလုံးရေကွာဟချက် စစ်ဆေးခြင်း
+                if (Math.abs(m3uClean.length - epg.clean.length) > 15 && Math.abs(m3uClean.length - epg.cleanId.length) > 15) continue;
 
-                let score = getSimilarity(m3uClean, epg.clean);
+                // Name ရော ID ကိုပါ တိုက်စစ်ပြီး အမှတ်အများဆုံးကို ယူမည်
+                let score1 = getSimilarity(m3uClean, epg.clean);
+                let score2 = getSimilarity(m3uClean, epg.cleanId);
+                let maxScore = Math.max(score1, score2);
                 
-                if ((m3uClean.includes(epg.clean) || epg.clean.includes(m3uClean)) && score > 0.5) {
-                    score += 0.15; 
+                if ((m3uClean.includes(epg.clean) || epg.clean.includes(m3uClean) || m3uClean.includes(epg.cleanId)) && maxScore > 0.5) {
+                    maxScore += 0.15; 
                 }
 
-                if (score > bestScore && score >= 0.8) {
-                    bestScore = score;
+                if (maxScore > bestScore && maxScore >= 0.8) {
+                    bestScore = maxScore;
                     bestId = epg.id;
                 }
             }
 
+            // TVG-ID ကို 100% ဝင်စေရန် (ကော်မာမတိုင်မီ) ကြားညှပ်ထည့်သွင်းခြင်း
             if (bestId) {
                 if (ch.extinf.includes('tvg-id=')) {
                     ch.extinf = ch.extinf.replace(/tvg-id="[^"]*"/, `tvg-id="${bestId}"`);
                 } else {
-                    ch.extinf = ch.extinf.replace('#EXTINF:-1', `#EXTINF:-1 tvg-id="${bestId}"`);
+                    let lastCommaIdx = ch.extinf.lastIndexOf(',');
+                    if (lastCommaIdx !== -1) {
+                        ch.extinf = ch.extinf.substring(0, lastCommaIdx) + ` tvg-id="${bestId}"` + ch.extinf.substring(lastCommaIdx);
+                    }
                 }
                 mappedCount++;
             }
@@ -179,7 +204,6 @@ async function generateFinalM3U() {
 
         console.log(`✅ Successfully mapped ${mappedCount} out of ${filteredChannels.length} channels.`);
 
-        // ၄။ အသင့်အသုံးပြုနိုင်သော M3U ဖိုင်အသစ် တည်ဆောက်ခြင်း
         console.log("📝 Generating final_playlist.m3u...");
         let m3uOutput = `#EXTM3U x-tvg-url="${EPG_URL}"\n`; 
         
