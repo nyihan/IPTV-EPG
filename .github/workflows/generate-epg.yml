@@ -1,4 +1,4 @@
-name: Auto Generate EPG Mapping
+name: Auto Generate Final M3U Playlist
 
 on:
   schedule:
@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-mapping:
+  generate-playlist:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # ပြန်တင်ရာတွင် Error ကင်းစေရန်
+          fetch-depth: 0 
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -23,20 +23,21 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run EPG Mapping Script
-        env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      - name: Run Smart M3U Generator
+        # API Key များ မလိုအပ်တော့သဖြင့် env အပိုင်းကို ဖြုတ်ထားပါသည်
         run: node generate_mapping.js
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # JSON အစား M3U ဖိုင်အသစ်ကိုသာ တင်ပေးမည်
           git add final_playlist.m3u
           
           # အပြောင်းအလဲရှိလျှင် Commit လုပ်မည်
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update EPG Mapping"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Final Playlist with EPG"
           
-          # Error မတက်စေရန် အပြင်မှ အပြောင်းအလဲများကို အရင် Pull လုပ်ပြီးမှ Push မည်
+          # Error မတက်စေရန် Pull အရင်လုပ်ပြီးမှ Push မည်
           git pull --rebase origin main
           git push
