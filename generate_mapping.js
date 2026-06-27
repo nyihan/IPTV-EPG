@@ -1,20 +1,29 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import fs from "fs";
 
-// API Key ကို GitHub Secrets (Environment variable) မှ ယူခြင်း
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+// API Keys များကို Enter ခေါက်ထားခြင်း (\n) သို့မဟုတ် ကော်မာ (,) နှစ်မျိုးလုံးကို နားလည်ပြီး ခွဲခြားပေးမည့်စနစ်
+const rawKeys = process.env.GEMINI_API_KEYS || process.env.GEMINI_API_KEY || "";
+// ပုံမှန် split(',') အစား Regular Expression ကိုသုံး၍ Enter များကိုပါ ခွဲထုတ်ခြင်း
+const apiKeys = rawKeys.split(/[\n\r,]+/).map(key => key.trim()).filter(key => key.length > 0);
 
-// မိတ်ဆွေ၏ M3U Playlist Source URL
+if (apiKeys.length === 0) {
+    console.error("❌ No API Keys found! Please set GEMINI_API_KEY in GitHub Secrets.");
+    process.exit(1);
+}
+
+console.log(`🔑 Loaded ${apiKeys.length} API keys for rotation.`);
+
+// Key တစ်ခုချင်းစီအတွက် Gemini 2.5 Flash Model များကို ကြိုတင်ပြင်ဆင်ထားခြင်း
+const models = apiKeys.map(key => new GoogleGenerativeAI(key).getGenerativeModel({ model: "gemini-2.5-flash" }));
+let currentKeyIndex = 0; // ပထမဆုံး Key မှ စတင်မည်
+
 const M3U_URL = "https://tivimate-iptv.nyinyihan17.workers.dev/playlist.m3u";
-
-// ရွေးထုတ်လိုသော Group နာမည်များတွင် ပါဝင်သည့် သင်္ကေတများ သတ်မှတ်ခြင်း
 const TARGET_MARKS = ['⭐', '✨']; 
 
 async function generateMapping() {
     console.log(`🔄 Fetching Playlist from: ${M3U_URL}`);
 
     try {
-        // 1. URL မှ M3U ဖိုင်ကို ဆွဲယူခြင်း
         const response = await fetch(M3U_URL);
         if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
         const m3uText = await response.text();
@@ -22,18 +31,14 @@ async function generateMapping() {
         const lines = m3uText.split('\n');
         const channelNames = new Set(); 
 
-        // 2. M3U ကို ဖတ်ပြီး သတ်မှတ်ထားသော Group မှ Channel များကိုသာ ရွေးထုတ်ခြင်း
         lines.forEach(line => {
             if (line.startsWith('#EXTINF:')) {
-                // group-title ကို ရှာဖွေခြင်း
                 const groupMatch = line.match(/group-title="([^"]+)"/i);
                 const groupTitle = groupMatch ? groupMatch[1] : "";
 
-                // Channel နာမည်ကို ရှာဖွေခြင်း (နောက်ဆုံး ကော်မာ နောက်က စာသား)
                 const channelNameMatch = line.match(/,(.+?)$/);
                 const channelName = channelNameMatch ? channelNameMatch[1].trim() : "";
 
-                // Group Name ထဲတွင် ⭐ သို့မဟုတ် ✨ ပါမပါ စစ်ဆေးခြင်း
                 const hasTargetMark = TARGET_MARKS.some(mark => groupTitle.includes(mark));
 
                 if (channelName && hasTargetMark) {
@@ -49,17 +54,16 @@ async function generateMapping() {
             console.log("⚠️ No marked channels found. Exiting...");
             return;
         }
-
-        // Gemini 2.5 Flash Model ကို ခေါ်ယူခြင်း
-        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" }); 
         
         let finalMappingData = {};
-        const chunkSize = 100; // API Limit သက်သာစေရန် တစ်ခါပို့လျှင် Channel ၁၀၀ စီခွဲပို့မည်
+        const chunkSize = 100; 
 
-        // 3. Channel များကို ခွဲ၍ Gemini သို့ ပို့ခြင်း
         for (let i = 0; i < uniqueChannels.length; i += chunkSize) {
             const chunk = uniqueChannels.slice(i, i + chunkSize);
-            console.log(`🧠 Sending chunk ${Math.floor(i / chunkSize) + 1} of ${Math.ceil(uniqueChannels.length / chunkSize)} (${chunk.length} channels) to Gemini AI...`);
+            const chunkNumber = Math.floor(i / chunkSize) + 1;
+            const totalChunks = Math.ceil(uniqueChannels.length / chunkSize);
+            
+            console.log(`🧠 Sending chunk ${chunkNumber} of ${totalChunks} (${chunk.length} channels)...`);
             
             const prompt = `
             You are an expert IPTV architect. Match the following M3U channel names with the closest appropriate EPG Channel ID from the epg.pw database.
@@ -71,14 +75,18 @@ async function generateMapping() {
             `;
 
             let success = false;
-            let retries = 3; // Error တက်ခဲ့လျှင် အများဆုံး ၃ ကြိမ်အထိ ပြန်လည်ကြိုးစားမည်
+            // Key အရေအတွက်အပေါ် မူတည်ပြီး Retry အကြိမ်ရေကို တိုးထားပါသည် (ဥပမာ- 4 keys ဆိုလျှင် 8 ကြိမ် အထိ ပြန်ခေါ်မည်)
+            let retries = apiKeys.length * 2; 
 
             while (!success && retries > 0) {
+                // လက်ရှိအလှည့်ကျနေသော Key (Model) ကို အသုံးပြုခြင်း
+                const model = models[currentKeyIndex];
+                
                 try {
+                    console.log(`📡 Using API Key #${currentKeyIndex + 1}...`);
                     const result = await model.generateContent(prompt);
                     let jsonResponse = result.response.text();
                     
-                    // AI ပြန်ပေးသော စာသားထဲမှ JSON အပိုင်းကိုသာ သီးသန့်ဖြတ်ယူခြင်း
                     jsonResponse = jsonResponse.replace(/```json/ig, "").replace(/```/g, "").trim();
                     const jsonStart = jsonResponse.indexOf('{');
                     const jsonEnd = jsonResponse.lastIndexOf('}');
@@ -88,38 +96,41 @@ async function generateMapping() {
                     }
 
                     const mappingData = JSON.parse(jsonResponse);
-                    
-                    // ရလာသော Mapping အသစ်များကို အဓိက Data ထဲသို့ ပေါင်းထည့်ခြင်း
                     finalMappingData = { ...finalMappingData, ...mappingData };
                     
-                    success = true; // အောင်မြင်ပါက While Loop ထဲမှ ထွက်မည်
+                    success = true; 
 
-                    // API 15 RPM Limit မကျော်စေရန် ပုံမှန်အားဖြင့် ၅ စက္ကန့် နားမည်
-                    console.log(`✅ Chunk ${Math.floor(i / chunkSize) + 1} processed successfully. Waiting 5 seconds...`);
-                    await new Promise(resolve => setTimeout(resolve, 5000)); 
+                    console.log(`✅ Chunk ${chunkNumber} processed successfully.`);
+                    
+                    // အောင်မြင်သွားပါက နောက် Chunk အတွက် Key အသစ်သို့ ပြောင်းထားမည် (Round-Robin)
+                    currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
+                    
+                    // ပုံမှန်အားဖြင့် ၃ စက္ကန့်သာ နားမည် (Key များနေသဖြင့် အကြာကြီးနားစရာမလိုတော့ပါ)
+                    await new Promise(resolve => setTimeout(resolve, 3000)); 
 
                 } catch (apiError) {
                     retries--;
-                    console.error(`⚠️ API Error on chunk ${Math.floor(i / chunkSize) + 1}: ${apiError.message}`);
+                    console.error(`⚠️ API Error on Key #${currentKeyIndex + 1}: ${apiError.message}`);
+                    
+                    // Error တက်ပါက ကျန်နေသေးသော နောက်ထပ် Key တစ်ခုသို့ ချက်ချင်း ပြောင်းလဲမည်
+                    currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
                     
                     if (retries > 0) {
-                        // Rate Limit (သို့) တခြား Error တက်ပါက ၃၀ စက္ကန့်နားပြီးမှ ပြန်ကြိုးစားမည်
-                        console.log(`⏳ Waiting 30 seconds before retry... (${retries} retries left)`);
-                        await new Promise(resolve => setTimeout(resolve, 30000)); 
+                        console.log(`🔄 Switching to Key #${currentKeyIndex + 1}. Waiting 5 seconds before retry... (${retries} retries left)`);
+                        await new Promise(resolve => setTimeout(resolve, 5000)); 
                     } else {
-                        console.log("❌ Failed after multiple retries. Skipping this chunk.");
+                        console.log("❌ Failed after multiple retries with all keys. Skipping this chunk.");
                     }
                 }
             }
         }
 
-        // 4. Mapping အားလုံးကို JSON ဖိုင်အဖြစ် သိမ်းဆည်းခြင်း
         fs.writeFileSync("channel_mapping.json", JSON.stringify(finalMappingData, null, 2));
         console.log(`🎉 AI Mapping Completed! Successfully saved ${Object.keys(finalMappingData).length} mapped channels to channel_mapping.json`);
 
     } catch (error) {
         console.error("❌ Error during Auto-Mapping Process:", error);
-        process.exit(1); // Error ကြီးကြီးမားမားတက်ပါက GitHub Action ကို Fail ဖြစ်စေမည်
+        process.exit(1); 
     }
 }
 
