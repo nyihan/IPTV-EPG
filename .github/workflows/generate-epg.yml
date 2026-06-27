@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add channel_mapping.json
+          git add final_playlist.m3u
           
           # အပြောင်းအလဲရှိလျှင် Commit လုပ်မည်
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update EPG Mapping"
