@@ -1,17 +1,15 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
 import fs from "fs";
 
-// API Keys များကို Enter ခေါက်ထားခြင်း (\n) သို့မဟုတ် ကော်မာ (,) ဖြင့် ခွဲခြားယူခြင်း
-const rawKeys = process.env.GEMINI_API_KEYS || process.env.GEMINI_API_KEY || "";
+// ဤနေရာတွင် GROQ_API_KEY ဟု ပြောင်းလဲအသုံးပြုထားပါသည်
+const rawKeys = process.env.GROQ_API_KEYS || process.env.GROQ_API_KEY || "";
 const apiKeys = rawKeys.split(/[\n\r,]+/).map(key => key.trim()).filter(key => key.length > 0);
 
 if (apiKeys.length === 0) {
-    console.error("❌ No API Keys found! Please set GEMINI_API_KEY in GitHub Secrets.");
+    console.error("❌ No API Keys found! Please set GROQ_API_KEY in GitHub Secrets.");
     process.exit(1);
 }
 
-console.log(`🔑 Loaded ${apiKeys.length} API keys for rotation.`);
-const models = apiKeys.map(key => new GoogleGenerativeAI(key).getGenerativeModel({ model: "gemini-2.5-flash" }));
+console.log(`🔑 Loaded ${apiKeys.length} Groq API keys for rotation.`);
 let currentKeyIndex = 0;
 
 // မူရင်းလင့်ခ်နှင့် EPGShare01 ၏ အဓိက EPG လင့်ခ်
@@ -42,21 +40,21 @@ async function generateFinalM3U() {
             if (line.startsWith('#EXTINF:')) {
                 currentExtinf = line;
             } else if (line.startsWith('http') && currentExtinf !== "") {
-                // Group နှင့် Name ကို ခွဲထုတ်ခြင်း
                 let groupMatch = currentExtinf.match(/group-title="([^"]*)"/i);
                 let groupTitle = groupMatch ? groupMatch[1] : "";
                 let nameMatch = currentExtinf.match(/,(.+?)$/);
                 let channelName = nameMatch ? nameMatch[1].trim() : "";
 
-                // ရုရှားလိုင်းဟုတ်/မဟုတ် နှင့် အားကစားလိုင်း ဟုတ်/မဟုတ် စစ်ဆေးခြင်း
-                const isRu = /🇷🇺|russia|\bru\b|россия/i.test(groupTitle) || /🇷🇺|russia|\bru\b/i.test(channelName);
+                // ရုရှား Group ဟုတ်/မဟုတ် ကို Group နာမည်ကိုသာကြည့်ပြီး တိကျစွာ စစ်ဆေးခြင်း
+                const isRuGroup = /🇷🇺|russia|\bru\b|россия/i.test(groupTitle);
+                
+                // အားကစားလိုင်း ဟုတ်/မဟုတ် စစ်ဆေးခြင်း
                 const isSport = /sport|спорт|match|футбол|арена|бойцовский|ufc|arena|football/i.test(channelName) || /sport/i.test(groupTitle);
 
                 let keep = true;
 
-                if (isRu) {
+                if (isRuGroup) {
                     if (isSport) {
-                        // ရုရှား အားကစားလိုင်းဖြစ်ပါက Group နာမည်ကို "Sport from Russia GP" သို့ ပြောင်းမည်
                         if (groupMatch) {
                             currentExtinf = currentExtinf.replace(`group-title="${groupTitle}"`, `group-title="Sport from Russia GP"`);
                         } else {
@@ -64,7 +62,6 @@ async function generateFinalM3U() {
                         }
                         groupTitle = "Sport from Russia GP";
                     } else {
-                        // ရုရှားလိုင်းဖြစ်ပြီး အားကစားမဟုတ်ပါက ဖယ်ရှားမည်
                         keep = false;
                         droppedCount++;
                     }
@@ -79,24 +76,23 @@ async function generateFinalM3U() {
                     });
                 }
                 
-                currentExtinf = ""; // Reset for next channel
+                currentExtinf = "";
             }
         }
 
         console.log(`✅ Kept ${filteredChannels.length} channels. Dropped ${droppedCount} non-sport Russian channels.`);
 
         let finalMappingData = {};
-        const chunkSize = 150; // AI သို့ တစ်ခါပို့လျှင် လိုင်း ၁၅၀ စီ ပို့မည်
+        const chunkSize = 50; // Groq ၏ Rate Limit ကိုငဲ့ကာ တစ်ခါပို့လျှင် ၅၀ စီသို့ လျှော့ချထားပါသည်
 
-        // ၂။ AI ဖြင့် epgshare01 EPG ID များကို Map လုပ်ခြင်း
+        // ၂။ Groq AI ဖြင့် epgshare01 EPG ID များကို Map လုပ်ခြင်း
         for (let i = 0; i < filteredChannels.length; i += chunkSize) {
             const chunk = filteredChannels.slice(i, i + chunkSize);
             const chunkNumber = Math.floor(i / chunkSize) + 1;
             const totalChunks = Math.ceil(filteredChannels.length / chunkSize);
             
-            console.log(`🧠 AI Mapping chunk ${chunkNumber} of ${totalChunks} (${chunk.length} channels)...`);
+            console.log(`🧠 Groq AI Mapping chunk ${chunkNumber} of ${totalChunks} (${chunk.length} channels)...`);
             
-            // AI သို့ နိုင်ငံအလံနှင့် Group များကိုပါ Context အနေဖြင့် ထည့်ပေးလိုက်ပါသည်
             const aiPromptData = chunk.map(c => ({ channel_name: c.name, context: c.group }));
 
             const prompt = `
@@ -112,10 +108,28 @@ async function generateFinalM3U() {
             let retries = apiKeys.length * 2; 
 
             while (!success && retries > 0) {
-                const model = models[currentKeyIndex];
+                const currentApiKey = apiKeys[currentKeyIndex];
                 try {
-                    const result = await model.generateContent(prompt);
-                    let jsonResponse = result.response.text();
+                    // Groq ၏ မြန်ဆန်သော Llama-3-70b မော်ဒယ်အား Native Fetch ဖြင့် တိုက်ရိုက်ခေါ်ယူခြင်း
+                    const aiResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+                        method: "POST",
+                        headers: {
+                            "Authorization": `Bearer ${currentApiKey}`,
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify({
+                            model: "llama3-70b-8192", // Groq ၏ အကောင်းဆုံးမော်ဒယ်
+                            messages: [{ role: "user", content: prompt }],
+                            temperature: 0.1
+                        })
+                    });
+
+                    if (!aiResponse.ok) {
+                        throw new Error(`Groq API Error: ${aiResponse.status} ${aiResponse.statusText}`);
+                    }
+
+                    const aiData = await aiResponse.json();
+                    let jsonResponse = aiData.choices[0].message.content;
                     
                     jsonResponse = jsonResponse.replace(/```json/ig, "").replace(/```/g, "").trim();
                     const jsonStart = jsonResponse.indexOf('{');
@@ -136,6 +150,7 @@ async function generateFinalM3U() {
                     retries--;
                     currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
                     if (retries > 0) {
+                        console.log(`⚠️ API Error. Retrying with next key... (${retries} left)`);
                         await new Promise(resolve => setTimeout(resolve, 5000)); 
                     } else {
                         console.log(`❌ Failed chunk ${chunkNumber} after multiple retries.`);
@@ -147,7 +162,7 @@ async function generateFinalM3U() {
         // ၃။ အသင့်အသုံးပြုနိုင်သော M3U ဖိုင်အသစ် တည်ဆောက်ခြင်း
         console.log("📝 Generating final_playlist.m3u...");
         
-        let m3uOutput = `#EXTM3U x-tvg-url="${EPG_URL}"\n`; // EPGShare01 လင့်ခ်ကို ထိပ်ဆုံးတွင် တပ်ပေးထားသည်
+        let m3uOutput = `#EXTM3U x-tvg-url="${EPG_URL}"\n`; 
         
         for (const ch of filteredChannels) {
             let extinf = ch.extinf;
