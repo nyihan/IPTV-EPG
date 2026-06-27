@@ -50,8 +50,8 @@ async function generateMapping() {
             return;
         }
 
-        // Gemini 1.5 Flash Model ကို ခေါ်ယူခြင်း
-        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" }); 
+        // Gemini 2.5 Flash Model ကို ခေါ်ယူခြင်း
+        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" }); 
         
         let finalMappingData = {};
         const chunkSize = 100; // API Limit သက်သာစေရန် တစ်ခါပို့လျှင် Channel ၁၀၀ စီခွဲပို့မည်
