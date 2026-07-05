@@ -1341,25 +1341,23 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtGX9IBPOPJzZXlgbdX7ufWBFiMjyJPV3TVJ4y6F1T61EH9J08Hir9l6E&s=10", Globo Tv Brazil (hls)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="formula11200tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (TSN SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="formula11200fancodefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula11450tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (TSN SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-id="formula11450fancodefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (FANCODE FHD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-id="formula11200sportzxlive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (SportzX Live)
-https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8
-#EXTINF:-1 tvg-id="formula11200skysportsf1" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (SKY SPORTS F1)
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8
-#EXTINF:-1 tvg-id="formula11200f1germanyusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (F1 GERMANY  USA )
+#EXTINF:-1 tvg-id="formula11450spxfhdlive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (SPX FHD LIVE)
+https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-81/y4ts-2uef_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="formula11450f1germanyusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (F1 GERMANY  USA )
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
-#EXTINF:-1 tvg-id="formula11200skyf1italyusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (SKY F1 ITALY  USA )
+#EXTINF:-1 tvg-id="formula11450skyf1italyusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (SKY F1 ITALY  USA )
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="formula11200tipikfrancefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (Tipik FRANCE FHD)
+#EXTINF:-1 tvg-id="formula11450tipikfrancefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (Tipik FRANCE FHD)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="formula11200elevensports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="formula11450elevensports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (ELEVEN SPORTS)
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
-#EXTINF:-1 tvg-id="formula11200skyf1de" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (Sky F1 DE)
+#EXTINF:-1 tvg-id="formula11450skyf1de" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (Sky F1 DE)
 https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="formula11200foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 12:00 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula11450foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="F1",Formula 1 14:50 (Fox Sports - AQ)
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="wwe0100tsnsports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE 01:00 (TSN SPORTS)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
@@ -1381,30 +1379,6 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodesd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE - SD)
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-#EXTINF:-1 tvg-id="englandvsindia1730willowalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (WILLOW ALT)
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
-#EXTINF:-1 tvg-id="englandvsindia1730willowfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (WILLOW FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
-#EXTINF:-1 tvg-id="englandvsindia1730tapmadfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (TAPMAD FHD)
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730skymainevent" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SKY MAIN EVENT)
-https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730skysportnz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SKY SPORT NZ)
-https://tmaxapp.site/skynz1.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730willowhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (WILLOW HD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="englandvsindia1730foxcrickethd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (FOX CRICKET HD)
-https://tmaxapp.site/foxcricket.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730sportzxlive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SportzX Live)
-https://tmaxapp.site/willoweng.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730sonyliveng" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SonyLiv - ENG)
-https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivhin" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SonyLiv - HIN)
-https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivtam" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SonyLiv - TAM)
-https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivtel" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England vs India 17:30 (SonyLiv - TEL)
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 #EXTINF:-1 tvg-id="onefridayfights1330server2" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (Server 2)
@@ -1422,7 +1396,7 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wweraw0100tapsportlq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Raw 01:00 (Tap Sport LQ)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="wwesmackdownfriday0100wwelivehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Smackdown Friday 01:00 (WWE LIVE HD)
-https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+https://melancholy.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 #EXTINF:-1 tvg-id="wwesmackdownfriday0100sdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Smackdown Friday 01:00 (SD SERVER)
 http://193.47.62.44/hls/RGREGREQZ.m3u8
 #EXTINF:-1 tvg-id="wwesmackdownfriday0100sportzxtvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Smackdown Friday 01:00 (SportzX TV  HD)
@@ -1433,10 +1407,8 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #EXTINF:-1 tvg-id="wwesmackdownfriday0100usatv" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Smackdown Friday 01:00 (USA TV)
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
-#EXTINF:-1 tvg-id="sanantoniospurs0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",San Antonio Spurs 01:00 (HD SERVER)
-https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cfl0030tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cfl",CFL 00:30 (TSN SPORTS FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#EXTINF:-1 tvg-id="sacramentokings2200hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Sacramento Kings 22:00 (HD SERVER)
+https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="englandwvsaustraliaw1530willowfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England W vs Australia W 15:30 (WILLOW FHD)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/slqmxbfik7/out/v1/7712c83009e8420fb34db73f3a1a2151/cenc.mpd
 #EXTINF:-1 tvg-id="englandwvsaustraliaw1530willowalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England W vs Australia W 15:30 (WILLOW ALT)
@@ -1452,11 +1424,13 @@ https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-id="englandwvsaustraliaw1530sportzxlive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",England W vs Australia W 15:30 (SportzX Live)
 https://tmaxapp.site/willoweng.m3u8
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500willowfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (WILLOW FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h2plpwxsbj/out/v1/f8ae82b524284d7d8fce270a57a8edf1/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd
+#EXTINF:-1 tvg-id="westindiesvssrilanka1500fancodefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (FANCODE FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500willowalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (WILLOW ALT)
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h2plpwxsbj/out/v1/f8ae82b524284d7d8fce270a57a8edf1/cenc.mpd
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500fancodein" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (FANCODE - IN)
-https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8
+https://dai-fancode.pages.dev/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="brazilvsnorway2100foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Brazil vs Norway 21:00 (FOX SPORTS - AQ)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
 #EXTINF:-1 tvg-id="brazilvsnorway2100itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Brazil vs Norway 21:00 (ITV SPORTS FHD)
@@ -1667,220 +1641,202 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="portugalvsspain2000somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Portugal vs Spain 20:00 (SOMOY TV HD)
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX ONE - AQ)
+#EXTINF:-1 tvg-id="usavsbelgium0100foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX ONE - AQ)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TSN SPORTS FHD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (Binge BDIX (BD))
+#EXTINF:-1 tvg-id="usavsbelgium0100ctvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (CTV SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (Binge BDIX (BD))
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900unite8hindi" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (UNITE8 HINDI)
-https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-19/q1h3-shbv/chunklist.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSN4 SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (WC TV FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (WC TV FHD)
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (RTE SPORTS FHD)
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f63170fb-3c13-4829-8e8c-0977ed9011d7:BRU/manifest.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (DSports FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (CAZE TV FHD)
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900sportvbrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (SporTV BR FHD)
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX ONE 4K)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX ONE HD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (NPO1 DUTCH FHD)
-https://npo-nl-ams-p17-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxODcyMzEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZGE4OTEzYSJ9.tRTSOKtB-18EqmwTxmKLSECnk2RLcyhEJR1ctHCNunw/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900vrtsportsbelgium" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (VRT SPORTS (Belgium))
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900m6franceusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (M6 FRANCE (USA))
-https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSN Sports FHD)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX ONE FHD)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX 4K  ALT )
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FOX ONE  ALT )
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSN SPORTS  ALT )
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TELEMUNDO  USA )
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL TV 4K)
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL TV2 4K)
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (IRIB 4K)
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (DAZN SPANISH)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (BTV BDIX HD)
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSports HD)
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (SOMOY TV HD)
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="australiavsegypt1900matchtvru" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (MATCH TV RU)
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL 4K  GER )
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL2 4K  GER )
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussballtvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL TV FHD)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (FUSSBALL2 TV FHD)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TELEMUNDO  USA )
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-id="australiavsegypt1900tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TIPIK FR FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (RTE SPORTS FHD)
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/66bcdbbf-5a90-41d5-b332-91c48db07257:BRU/manifest.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TIPIK FR FHD)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE - AQ)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (ITV SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TSN SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (Binge BDIX (BD))
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300beinarabic" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (beIN ARABIC)
-https://am.websart.store/uonzo2.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (DSports FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (D Sports FHD)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tvela1fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TVE La 1 FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TSN4 SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (WC TV FHD)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TIPIK FR FHD)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (RTE SPORTS FHD)
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/39e74ad9-137f-423c-969d-e7298cf3bf4e:BRU/manifest.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE 4K)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/cwghrcrum1/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (CAZE TV FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (CAZE TV FHD)
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300canal5fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (CANAL5 FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tudnmexico" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TUDN MEXICO)
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300sportvbrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (SporTV BR FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300ctsportscz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (CT SPORTS CZ)
+#EXTINF:-1 tvg-id="usavsbelgium0100iscreenbdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (iScreen BDIX (BD))
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+#EXTINF:-1 tvg-id="usavsbelgium0100ctsportscz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (CT SPORTS CZ)
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE HD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (NPO1 DUTCH FHD)
-https://npo-nl-ams-p17-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxODcyMzEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZGE4OTEzYSJ9.tRTSOKtB-18EqmwTxmKLSECnk2RLcyhEJR1ctHCNunw/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TSN Sports FHD)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE FHD)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX 4K  ALT )
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300itvsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (ITV SPORTS ALT)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE  ALT )
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TSN SPORTS  ALT )
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TELEMUNDO  USA )
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL TV 4K)
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL TV2 4K)
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (IRIB 4K)
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (BTV BDIX HD)
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TSports HD)
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (SOMOY TV HD)
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300tycsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (TYC SPORTS HD)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (DAZN SPANISH)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300matchtvru" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (MATCH TV RU)
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300iscreenbdfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (ISCREEN BD FHD)
-https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL 4K  GER )
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL2 4K  GER )
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussballtvger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL TV  GER )
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="argentinavscaboverde2300fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FUSSBALL2 TV FHD)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX ONE - AQ)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (ITV SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TSN SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (Binge BDIX (BD))
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-id="colombiavsghana0230tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TSN4 SPORTS FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (WC TV FHD)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TIPIK FR FHD)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (RTE SPORTS FHD)
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (D Sports FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (CAZE TV FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX ONE 4K)
+#EXTINF:-1 tvg-id="usavsbelgium0100foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX ONE 4K)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX ONE HD)
+#EXTINF:-1 tvg-id="usavsbelgium0100foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX SPORTS HD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (NPO1 DUTCH FHD)
-https://npo-nl-ams-p17-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxODcyMzEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZGE4OTEzYSJ9.tRTSOKtB-18EqmwTxmKLSECnk2RLcyhEJR1ctHCNunw/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230m6franceusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (M6 FRANCE (USA))
-https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX ONE FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (NPO1 DUTCH FHD)
+https://npo-nl-ams-p23-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxMDE0OTcsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiOWFiNGJiNiJ9.Mrnl7cHSAplbWGh_DtEC4Hd4FbgBXDyYCJGN9DdkgiA/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100vrtsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (VRT SPORTS FHD)
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX ONE FHD)
 https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TSN SPORTS FHD)
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX 4K  ALT )
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FOX SPORTS  ALT )
+#EXTINF:-1 tvg-id="usavsbelgium0100tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TSN Sports FHD)
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX SPORTS  ALT )
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TSN SPORTS  ALT )
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230itvsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (ITV SPORTS  ALT )
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230universeousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (UNIVERSEO  USA )
+#EXTINF:-1 tvg-id="usavsbelgium0100tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TSN SPORTS  ALT )
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FOX 4K  ALT )
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#EXTINF:-1 tvg-id="usavsbelgium0100telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TELEMUNDO  USA )
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussballtv14k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL TV1 4K)
+#EXTINF:-1 tvg-id="usavsbelgium0100fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL TV 4K)
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL TV2 4K)
+#EXTINF:-1 tvg-id="usavsbelgium0100fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL TV2 4K)
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (IRIB 4K)
+#EXTINF:-1 tvg-id="usavsbelgium0100irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="colombiavsghana0230daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (DAZN SPANISH)
+#EXTINF:-1 tvg-id="usavsbelgium0100daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="colombiavsghana0230matchfootballfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (Match Football FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100matchfootballfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (Match Football FHD)
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL 4K  GER )
+#EXTINF:-1 tvg-id="usavsbelgium0100fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL 4K  GER )
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL2 4K  GER )
+#EXTINF:-1 tvg-id="usavsbelgium0100fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL2 4K  GER )
 https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussballtvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL TV FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100fussballtvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL TV FHD)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (FUSSBALL2 TV FHD)
+#EXTINF:-1 tvg-id="usavsbelgium0100fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (FUSSBALL2 TV FHD)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TELEMUNDO  USA )
+#EXTINF:-1 tvg-id="usavsbelgium0100tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (TSports HD)
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="usavsbelgium0100btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (BTV BDIX HD)
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="usavsbelgium0100somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",USA vs Belgium 01:00 (SOMOY TV HD)
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700foxsportsaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FOX SPORTS - AQ)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fuwcrk6xpp/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TSN SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700ctvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (CTV SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700bingebdfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (Binge BD FHD)
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TIPIK FR FHD)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (WC TV FHD)
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (RTE SPORTS FHD)
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (D Sports FHD)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (CAZE TV FHD)
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700ctsportscz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (CT SPORTS CZ)
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FOX SPORTS HD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (NPO1 DUTCH FHD)
+https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TSN Sports FHD)
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700foxsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FOX SPORTS FHD)
+https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TSN SPORTS  ALT )
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FOX ONE  ALT )
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FOX 4K  ALT )
+https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TELEMUNDO  USA )
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussballtv14k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL TV1 4K)
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL TV2 4K)
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700iscreenbdbdix" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (ISCREEN BD (BDIX))
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700tycsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="argentinavsegypt1700matchtvru" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (MATCH TV RU)
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL 4K  GER )
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL2 4K  GER )
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussballtvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL TV FHD)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (FUSSBALL2 TV FHD)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+#EXTINF:-1 tvg-id="argentinavsegypt1700telemundoalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Argentina vs Egypt 17:00 (TELEMUNDO  ALT )
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-#EXTINF:-1 tvg-id="colombiavsghana0230telemundofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Ghana 02:30 (TELEMUNDO FHD)
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX ONE - AQ)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TSN SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (Binge BDIX (BD))
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100unite8hindi" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (UNITE8 HINDI)
+https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-19/q1h3-shbv/chunklist.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TSN4 SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (WC TV FHD)
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (RTE SPORTS FHD)
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f63170fb-3c13-4829-8e8c-0977ed9011d7:BRU/manifest.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (DSports FHD)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (CAZE TV FHD)
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100sportvbrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (SporTV BR FHD)
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX ONE 4K)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX ONE HD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (NPO1 DUTCH FHD)
+https://npo-nl-ams-p17-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxODcyMzEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZGE4OTEzYSJ9.tRTSOKtB-18EqmwTxmKLSECnk2RLcyhEJR1ctHCNunw/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100vrtsportsbelgium" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (VRT SPORTS (Belgium))
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100m6franceusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (M6 FRANCE (USA))
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TSN Sports FHD)
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX ONE FHD)
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX 4K  ALT )
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FOX ONE  ALT )
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TSN SPORTS  ALT )
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TELEMUNDO  USA )
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL TV 4K)
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussballtv24k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL TV2 4K)
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (BTV BDIX HD)
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TSports HD)
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (SOMOY TV HD)
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100matchtvru" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (MATCH TV RU)
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussball4kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL 4K  GER )
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussball24kger" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL2 4K  GER )
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussballtvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL TV FHD)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (FUSSBALL2 TV FHD)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TELEMUNDO  USA )
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+#EXTINF:-1 tvg-id="switzerlandvscolombia2100tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Switzerland vs Colombia 21:00 (TIPIK FR FHD)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX ONE - AQ)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (ITV SPORTS FHD)
@@ -1889,36 +1845,36 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (Binge BDIX (BD))
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-id="canadavsmorocco1800tudnmexico" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TUDN MEXICO)
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (WC TV FHD)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TIPIK FR FHD)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX SPORTS 4K)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800canal5fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (CANAL5 FHD)
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+#EXTINF:-1 tvg-id="canadavsmorocco1800tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TSN4 SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="canadavsmorocco1800ctvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (CTV SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+#EXTINF:-1 tvg-id="canadavsmorocco1800wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (WC TV FHD)
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (RTE SPORTS FHD)
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2e20f29a-0431-4a7e-83a3-d50ecfbb5a2a:BRU/manifest.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (NPO1 DUTCH FHD)
-https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/530f2af5-e363-41cd-b42d-ca3abb273fce:GRQ/manifest.mpd
+#EXTINF:-1 tvg-id="canadavsmorocco1800foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX SPORTS 4K)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/gu2hxfshmt/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (DSports FHD)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (CAZE TV FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800sportvbrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (SporTV BR FHD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 tvg-id="canadavsmorocco1800ctsportscz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (CT SPORTS CZ)
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX ONE HD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800qazsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (QAZ SPORTS FHD)
-https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1 tvg-id="canadavsmorocco1800npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (NPO1 DUTCH FHD)
+https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TSN SPORTS FHD)
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX ONE FHD)
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX 4K  ALT )
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TSN SPORTS  ALT )
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800foxsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FOX SPORTS  ALT )
@@ -1949,8 +1905,12 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 #EXTINF:-1 tvg-id="canadavsmorocco1800fussball2tvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (FUSSBALL2 TV FHD)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-#EXTINF:-1 tvg-id="canadavsmorocco1800toffeeaqbdix" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TOFFEE - AQ (BDIX))
-https://pastebin.com/raw/nJ3WYKnG?e=.m3u8
+#EXTINF:-1 tvg-id="canadavsmorocco1800btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (BTV BDIX HD)
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canadavsmorocco1800tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (TSports HD)
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canadavsmorocco1800somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 18:00 (SOMOY TV HD)
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="paraguayvsfrance2200foxoneaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX ONE - AQ)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TSN SPORTS FHD)
@@ -1959,30 +1919,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200bingebdixbd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (Binge BDIX (BD))
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-id="paraguayvsfrance2200beinarabic" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (beIN Arabic)
-https://vr.kooraa17.cfd/homng1.m3u8
-#EXTINF:-1 tvg-id="paraguayvsfrance2200wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (WC TV FHD)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200tipikfrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TIPIK FR FHD)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-#EXTINF:-1 tvg-id="paraguayvsfrance2200foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX SPORTS 4K)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#EXTINF:-1 tvg-id="paraguayvsfrance2200tsn4sportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TSN4 SPORTS FHD)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="paraguayvsfrance2200wctvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (WC TV FHD)
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#EXTINF:-1 tvg-id="paraguayvsfrance2200rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (RTE SPORTS FHD)
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2a690d5f-7ab5-460e-ba3d-cef6b7a86e29:GRQ/manifest.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200tvela1fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TVE La 1 FHD)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
-#EXTINF:-1 tvg-id="paraguayvsfrance2200rtesportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (RTE SPORTS FHD)
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd
-#EXTINF:-1 tvg-id="paraguayvsfrance2200npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (NPO1 DUTCH FHD)
-https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+#EXTINF:-1 tvg-id="paraguayvsfrance2200foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX SPORTS 4K)
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/gu2hxfshmt/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (D Sports FHD)
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (CAZE TV FHD)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX ONE HD)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
-#EXTINF:-1 tvg-id="paraguayvsfrance2200qazsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (QAZ SPORTS FHD)
-https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:-1 tvg-id="paraguayvsfrance2200ctsportscz" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (CT SPORTS CZ)
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="paraguayvsfrance2200npo1dutchfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (NPO1 DUTCH FHD)
+https://npo-nl-ams-p13-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMyODM5OTgsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZDY3MDcwZCJ9.nXoDmInQOaxT4EyFPY7Ed11oGVw7RQgEi3h29Ecw1qo/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200m6franceusa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (M6 FRANCE (USA))
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200foxsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX SPORTS HD)
@@ -1990,7 +1946,7 @@ https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #EXTINF:-1 tvg-id="paraguayvsfrance2200tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TSN Sports FHD)
 https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200fox4kalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX 4K  ALT )
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/gu2hxfshmt/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (FOX ONE  ALT )
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TSN SPORTS  ALT )
@@ -2019,200 +1975,220 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 #EXTINF:-1 tvg-id="paraguayvsfrance2200telemundousa" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TELEMUNDO  USA )
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Basketball WC Qualifs] Bahamas vs Jamaica (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Basketball WC Qualifs] Bahamas vs Jamaica (FAWA)
-https://hls.live123.fans/live/3887928.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Basketball WC Qualifs] Canada vs Puerto Rico (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Basketball WC Qualifs] Canada vs Puerto Rico (FAWA)
-https://hls.live123.fans/live/3867369.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Basketball WC Qualifs] Colombia vs Chile (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Basketball WC Qualifs] Colombia vs Chile (FAWA)
-https://hls.live123.fans/live/3887937.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Basketball WC Qualifs] Dominican Republic vs USA (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Basketball WC Qualifs] Dominican Republic vs USA (FAWA)
-https://hls.live123.fans/live/3868622.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Boxing] BKFC Liberty Brawl (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] BKFC Liberty Brawl (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52878/load-playlist
-#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[CFL] Ottawa Redblacks vs Saskatchewan Roughriders (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[CFL] Ottawa Redblacks vs Saskatchewan Roughriders (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52858/load-playlist
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed (STRMCNTR)
-https://edgestreams.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde (FAWA)
-http://193.47.62.47/hls/dTHXCZckkkqr.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde (STRMHUB)
-https://obstreamx.click/live/rfvtzlcu7e.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde 1 (FAWA)
-https://live2.jxa76.com/live/sd-6MvYMRSYT2Uyo5ExEF.m3u8?txSecret=876a46b350bc949d1e3434be855b7063&txTime=19F2B3EA25B
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde HD (FAWA)
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bulgarian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bulgarian Feed (STRMHUB)
+#EXTINF:-1 tvg-id="paraguayvsfrance2200btvbdixhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (BTV BDIX HD)
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="paraguayvsfrance2200tsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (TSports HD)
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="paraguayvsfrance2200somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Paraguay vs France 22:00 (SOMOY TV HD)
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="milwaukeebucks2000hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Milwaukee Bucks 20:00 (HD SERVER)
+https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="thundervsmemphisgrizzlies2000hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Thunder vs Memphis Grizzlies 20:00 (HD SERVER)
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Athletics] Athletics Diamond League Eugene (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Athletics] Athletics Diamond League Eugene (FAWA)
+http://193.47.62.42/hls/JKKKQQ.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Deportes Iquique vs Coquimbo (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Chile Copa] Deportes Iquique vs Coquimbo (FAWA)
+http://193.47.62.42/hls/JKKKQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Live.Event.us" tvg-name="[Cricket MLC] San Francisco Unicorns vs Washington Freedom (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket MLC] San Francisco Unicorns vs Washington Freedom (FAWA)
+http://193.47.62.40/hls/NAAAQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Live.Event.us" tvg-name="[Cricket Vitality Blast] Gloucestershire vs Surrey (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket Vitality Blast] Gloucestershire vs Surrey (FAWA)
+http://193.47.62.40/hls/NAAAQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="Racing.Dummy.us" tvg-name="[F1] British Grand Prix Qualifying | Main Feed (FUTBOLX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[F1] British Grand Prix Qualifying | Main Feed (FUTBOLX)
+https://wc.ppvtv.top/stream/f7f34f89d222c438ff8c882bc435ee78
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bulgarian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bulgarian Feed (STRMHUB)
 https://obstreamx.click/live/fq0wnvxdtq.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Croatian.Music.Channel.ch" tvg-name="[FIFA World Cup] Croatian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Croatian Feed (STRMHUB)
-https://obstreamx.click/live/hcicvcycw2.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Dutch Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Dutch Feed (STRMHUB)
-https://obstreamx.click/live/erl37sx1pg.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed (STRMCNTR)
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Canada vs Morocco (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Canada vs Morocco (STRMHUB)
 https://obstreamx.click/live/esx51jdn9y.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="45" tvg-id="Croatian.Music.Channel.ch" tvg-name="[FIFA World Cup] Croatian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Croatian Feed (STRMHUB)
+https://obstreamx.click/live/hcicvcycw2.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Dutch Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Dutch Feed (STRMHUB)
+https://obstreamx.click/live/erl37sx1pg.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 1 (STRMHUB)
+https://obstreamx.click/live/esx51jdn9y.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 2 (STRMHUB)
 https://obstreamx.click/live/yq97gcrutx.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 6 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 6 (STRMHUB)
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 6 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 6 (STRMHUB)
 https://obstreamx.click/live/0wgkujaqih.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
 https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
 https://247v2.xyzstreams.st/?stream_id=foxwnyw&pro_id=sling&index-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FS1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FS1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FS1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FS1 (XYZSTRM)
 https://inproviszon.st/fs1-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
 https://inproviszon.st/itv-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
 https://247.xyzstreams.st/?stream_id=itv1&pro_id=itv&index.mpd
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
+#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] France vs Paraguay (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] France vs Paraguay (STRMSGATE)
+https://instreams.pro/US/NFLHD1/index.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed 1 (STRMHUB)
 https://obstreamx.click/live/thjmdciaen.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 1 (STRMHUB)
 https://obstreamx.click/live/n8ilhjbzdh.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 2 (STRMHUB)
 https://obstreamx.click/live/abzkpknkkt.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 3 (STRMHUB)
+#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 3 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 3 (STRMHUB)
 https://obstreamx.click/live/byunqmaemy.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 4 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 4 (STRMHUB)
+#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 4 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 4 (STRMHUB)
 https://obstreamx.click/live/zoojqh2zjh.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Polish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Polish Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="69" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Morocco vs Canada (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Morocco vs Canada (STRMSGATE)
+https://instreams.pro/US/NFLHD1/index.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs France (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Paraguay vs France (FAWA)
+http://193.47.62.47/hls/cdTHXCZckkkqqq.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs France (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Paraguay vs France (STRMHUB)
+https://obstreamx.click/live/esx51jdn9y.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs France 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Paraguay vs France 1 (FAWA)
+https://pulltx.bldoll.com/live/sd-6MvYMRTH6tD1WMqvgW.m3u8?txSecret=7f7b314dd6a680086b57cddcf0878ba3&txTime=6A4E5A02
+#EXTINF:-1 tvg-chno="74" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs France HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Paraguay vs France HD (FAWA)
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Paraguay vs FranceILI (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Paraguay vs FranceILI (FAWA)
+http://193.47.62.47/hls/cdTHXCZckkkqqqX.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Polish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Polish Feed (STRMHUB)
 https://obstreamx.click/live/zpzdyd32sa.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Serbian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Serbian Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="78" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Serbian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Serbian Feed (STRMHUB)
 https://obstreamx.click/live/md47hloawt.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (STRMCNTR)
-https://edge2caster.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (XYZSTRM)
+#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (XYZSTRM)
 https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 1 (STRMHUB)
+#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 1 (STRMHUB)
 https://obstreamx.click/live/ifibecaaqs.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 2 (STRMHUB)
+#EXTINF:-1 tvg-chno="82" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed 2 (STRMHUB)
 https://obstreamx.click/live/rfvtzlcu7e.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
+#EXTINF:-1 tvg-chno="85" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
 https://obstreamx.click/live/vg3xdntclm.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] Argentina - Cape Verde (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[Fifa World Cup] Argentina - Cape Verde (EMBEDHD)
-https://cdn10.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=6leb7a9BNaOeDJayH3hc9Q&expires=1783129782
-#EXTINF:-1 tvg-chno="75" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Great Britain GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Great Britain GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="87" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] Paraguay - France (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[Fifa World Cup] Paraguay - France (EMBEDHD)
+https://cdn6.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=zH1hyBPCtebvXbochcuuOw&expires=1783209626
+#EXTINF:-1 tvg-chno="89" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Great Britain GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Great Britain GP (iSTRMEAST)
 https://chatgpt.hereisman.net/playlist/52853/load-playlist
-#EXTINF:-1 tvg-chno="80" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA Tour John Deere Classic (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA Tour John Deere Classic (FAWA)
+#EXTINF:-1 tvg-chno="96" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA Tour John Deere Classic (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA Tour John Deere Classic (FAWA)
 http://193.47.62.42/hls/UUUU.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf US Senior Open (FAWA)" tvg-logo="https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png" group-title="Live Events",[Golf] Golf US Senior Open (FAWA)
-http://193.47.62.42/hls/UUUUQ.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Atlanta Braves vs New York Mets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Atlanta Braves vs New York Mets (FAWA)
-http://193.47.62.42/hls/OTTTQQQ.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Cincinnati Reds vs Baltimore Orioles (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Cincinnati Reds vs Baltimore Orioles (FAWA)
-http://193.47.62.42/hls/OTTTQ.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Cleveland Guardians vs Chicago White Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Cleveland Guardians vs Chicago White Sox (FAWA)
-http://193.47.62.42/hls/OTTTQQ.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Colorado Rockies vs San Francisco Giants (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Colorado Rockies vs San Francisco Giants (FAWA)
-http://193.47.62.42/hls/EKKKQ.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Houston Astros vs Tampa Bay Rays (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Houston Astros vs Tampa Bay Rays (FAWA)
-http://193.47.62.42/hls/EKKKQQ.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] New York Yankees vs Minnesota Twins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] New York Yankees vs Minnesota Twins (FAWA)
-http://193.47.62.42/hls/OTTT.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves - New York Mets (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Atlanta Braves - New York Mets (EMBEDHD)
-https://cdn4.zohanayaan.com:1686/hls/matlantabraves.m3u8?md5=Rx7eJGePe7Ow-PbqWUo95g&expires=1783129788
-#EXTINF:-1 tvg-chno="96" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs New York Mets (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Atlanta Braves vs New York Mets (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52876/load-playlist
-#EXTINF:-1 tvg-chno="104" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds - Baltimore Orioles (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds - Baltimore Orioles (EMBEDHD)
-https://cdn13.zohanayaan.com:1686/hls/mcincinnatireds.m3u8?md5=SWwAujOCWuT15cVtdawOtQ&expires=1783129786
-#EXTINF:-1 tvg-chno="106" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs Baltimore Orioles (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds vs Baltimore Orioles (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52875/load-playlist
-#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians - Chicago White Sox (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians - Chicago White Sox (EMBEDHD)
-https://cdn2.zohanayaan.com:1686/hls/mclevelandguardians.m3u8?md5=4GTJsODGhWqyC27aSMbZ6A&expires=1783129787
-#EXTINF:-1 tvg-chno="109" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Chicago White Sox (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Chicago White Sox (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52872/load-playlist
-#EXTINF:-1 tvg-chno="110" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies - San Francisco Giants (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Colorado Rockies - San Francisco Giants (EMBEDHD)
-https://cdn5.zohanayaan.com:1686/hls/mcoloradorockies.m3u8?md5=0dXvcfCuW2m38OFxYy4_gw&expires=1783129790
-#EXTINF:-1 tvg-chno="111" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros - Tampa Bay Rays (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Houston Astros - Tampa Bay Rays (EMBEDHD)
-https://cdn6.zohanayaan.com:1686/hls/mhoustonastros.m3u8?md5=0E6JiT_8gBX3tyhuLpp4eA&expires=1783129791
-#EXTINF:-1 tvg-chno="117" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees - Minnesota Twins (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees - Minnesota Twins (EMBEDHD)
-https://cdn14.zohanayaan.com:1686/hls/mnewyorkyankees.m3u8?md5=kZnA2R_dkHTpclW1VM8zSQ&expires=1783129784
+#EXTINF:-1 tvg-chno="97" tvg-id="Live.Event.us" tvg-name="[IndyCar] Indycar Honda Indy 200 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[IndyCar] Indycar Honda Indy 200 (FAWA)
+http://193.47.62.42/hls/yayayaqqqqqQ.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Seattle Mariners vs Toronto Blue Jays (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Seattle Mariners vs Toronto Blue Jays (FAWA)
+http://193.47.62.42/hls/JKKKQQQQ.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Texas Rangers vs Detroit Tigers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Texas Rangers vs Detroit Tigers (FAWA)
+http://193.47.62.42/hls/JKKKQQQ.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cardinals vs Cubs (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=irgKg64OaX4NRdqpO8qliB8aEiRX0rvRdlG-HCMV7b4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH%2F&expires=1783207823/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH/131.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Giants vs Rockies (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=wGR4hkfQooCKfYscVKgiJ7PAGYjUjaaqeWGUQddNn-8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1783207824/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Jays vs Mariners (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Jays vs Mariners (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=4Cppm1irPFdnZrW_hOaZbIIrKx0BrLVWCv8HJpyaTX8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq%2F&expires=1783207822/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHvOAX_FTWG0wP5IkKbIXQq/110.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Mets vs Braves (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=cCkNhl9mMSwQnhpOxVkF8G0o3AeokAfUs7hoBxsdA4w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1783207823/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Minnesota Twins (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees vs Minnesota Twins (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52871/load-playlist
-#EXTINF:-1 tvg-chno="126" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals - Pittsburgh Pirates (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Washington Nationals - Pittsburgh Pirates (EMBEDHD)
-https://cdn5.zohanayaan.com:1686/hls/mwashingtonnationals.m3u8?md5=hovUgOYbU4Os1rF_6rvqLg&expires=1783130430
-#EXTINF:-1 tvg-chno="128" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals vs Pittsburgh Pirates (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Washington Nationals vs Pittsburgh Pirates (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52868/load-playlist
-#EXTINF:-1 tvg-chno="130" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Miami Heat vs San Antonio Spurs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Miami Heat vs San Antonio Spurs (FAWA)
-http://193.47.62.42/hls/EKKK.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="Live.Event.us" tvg-name="[WNBA Basketball] New York Liberty W vs Minnesota Lynx W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WNBA Basketball] New York Liberty W vs Minnesota Lynx W (FAWA)
-http://193.47.62.42/hls/OTTTQQQQ.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] New York Liberty vs Minnesota Lynx (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] New York Liberty vs Minnesota Lynx (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52879/load-playlist
-#EXTINF:-1 tvg-chno="144" tvg-id="Live.Event.us" tvg-name="[WWE Wrestling] WWE Friday Night Smackdown 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WWE Wrestling] WWE Friday Night Smackdown 1 (FAWA)
-http://193.47.62.42/hls/OTTTQQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="Soccer.Dummy.us" tvg-name="[World Championship] Argentina vs Cabo Verde (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Championship] Argentina vs Cabo Verde (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/52865/load-playlist
-#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Alt Feed 1[Eng] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Alt Feed 1[Eng] (FUTBOLX)
-https://wc.ppvtv.top/stream/1fdf8a99c8fd79c0f301667e7d4a19b0
-#EXTINF:-1 tvg-chno="147" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Alt Feed 2[De] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Alt Feed 2[De] (FUTBOLX)
-https://wc.ppvtv.top/stream/2321cb425d0f24e52116aecfb926d5d8
-#EXTINF:-1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Alt Feed 3[Fr] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Alt Feed 3[Fr] (FUTBOLX)
-https://wc.ppvtv.top/stream/c2f2afbe67e937304b81883bdbc8644f
-#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Backup 1[Dut] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Backup 1[Dut] (FUTBOLX)
-https://wc.ppvtv.top/stream/3ff8c3fbfabd8939ba426a4ed9ee268f
-#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Backup 2[Tur] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Backup 2[Tur] (FUTBOLX)
-https://wc.ppvtv.top/stream/69bb9573261301d837e4c9515cc99f30
-#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Backup 3[Br] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Backup 3[Br] (FUTBOLX)
-https://wc.ppvtv.top/stream/cbd57844d6092ab93b6de19cf924595e
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Ext. Feed 1[Esp] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Ext. Feed 1[Esp] (FUTBOLX)
-https://wc.ppvtv.top/stream/c191cd364a48303b970e27e7fad62a55
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Ext. Feed 2[Ita] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Ext. Feed 2[Ita] (FUTBOLX)
-https://wc.ppvtv.top/stream/d09d0a107e9de44c48bacff9c7fa8e4b
-#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Ext. Feed 3[Ar] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Ext. Feed 3[Ar] (FUTBOLX)
-https://wc.ppvtv.top/stream/1ea785c829d63a5b8c6ee7233c2bef6b
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Argentina vs Cape Verde | Main Feed[Eng] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Argentina vs Cape Verde | Main Feed[Eng] (FUTBOLX)
-https://wc.ppvtv.top/stream/e9f012685f3289fbb670cf2f690b726e
-#EXTINF:-1 tvg-id="10311" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Baseball",St. Louis Cardinals at Chicago Cubs (English)
-https://edge2caster.pro/hls/dazhfiach15.m3u8?st=6QtAYjte_oaqR-O3f1jCmsQQk5kUT5lHqo1TKK9i3lk&e=1783131021
-#EXTINF:-1 tvg-id="10307" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/arg.png" group-title="Football",Cape Verde at Argentina (English)
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=X720I13xtL7dDnzbQQsHGcvZyeFbi-COXBE__x8P4Dw&e=1783131021
-#EXTINF:-1 tvg-id="10307" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/arg.png" group-title="Football",Cape Verde at Argentina (Arabic)
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=Rz5b5PbjCUaXbFtCBb7H8-pwiNbipoS0lZ0tKwpqves&e=1783131021
-#EXTINF:-1 tvg-id="10307" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/arg.png" group-title="Football",Cape Verde at Argentina (Spanish)
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=g1-ONMZFZhMKwdQ-sEd1pZuSjRsB0SSL1RE9RYBuf_4&e=1783131021
-#EXTINF:-1 tvg-id="10312" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" group-title="Baseball",Pittsburgh Pirates at Washington Nationals (English)
-https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=1vd65Xke0zDoyGeiphi_YibsZy2n-Ko2jwOIRmf0cCM&e=1783131021
-#EXTINF:-1 tvg-id="10313" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png" group-title="Baseball",Minnesota Twins at New York Yankees (English)
-https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=SfJOqUbRFC2LaTbwEYEoUFEBDhIPtE1dUOCF1kjupyw&e=1783131021
-#EXTINF:-1 tvg-id="10314" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="Baseball",Baltimore Orioles at Cincinnati Reds (English)
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=zmi8vBft0oTmHrW0LeDRzoXTRtlrlqs8EFXQ2P9N32E&e=1783131021
-#EXTINF:-1 tvg-id="10315" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png" group-title="Baseball",Chicago White Sox at Cleveland Guardians (English)
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=w3z2Xox9uxYyugAibiDFgXSsavGTSYRsg_xv-IG-cgU&e=1783131021
-#EXTINF:-1 tvg-id="10316" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball",New York Mets at Atlanta Braves (English)
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=kr_X1ViB5rLqFBEFocqpaVk1uIUcEAkPV2rEUc97o0E&e=1783131020
-#EXTINF:-1 tvg-id="10324" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/ny.png" group-title="Basketball",Minnesota Lynx at New York Liberty (English)
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=VAVJu5oIlzCw8f55RbnrLl954K8uqwY4mTDr-fMGDDo&e=1783131020
-#EXTINF:-1 tvg-id="10326" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7e8iO2PK_eCzzMTXZGTpz09RZiPB2i4jxXLGe4r11KQ&s=10" group-title="… Other", WWE: Friday Night Smackdown (English)
-https://edgestreams.pro/hls/uyopzarf50.m3u8?st=xs_c-A4eoYtemCpcJ8Ms-hEF2WMt4Ze4dFhQlzlSi9U&e=1783131020
-#EXTINF:-1 tvg-id="10327" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" group-title="Basketball",Miami Heat at San Antonio Spurs (English)
-https://edge2caster.pro/hls/mlkijfezag65.m3u8?st=tzuRfHmm-XnCsjjSlkZNUMcEuQnjqrc7mEdzx9v9i-g&e=1783131020
-#EXTINF:-1 tvg-id="10317" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Baseball",San Francisco Giants at Colorado Rockies (English)
-https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=FrwsKjiTWt5MOQnqR0V1CcZ0_XE8X-CPxzeXy6kNwtA&e=1783131020
-#EXTINF:-1 tvg-id="10318" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-title="Baseball",Tampa Bay Rays at Houston Astros (English)
-https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=gFDoYcWxPvJPRffqWmWhaGYIFPwZ7x0pm4UkpFNZ5qA&e=1783131020
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/col.png" group-title="Football",Ghana at Colombia (English)
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=UdbcfGRrppog02tDHG0Toykkps7OGbcFi6Q_WbNIOT8&e=1783131020
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/col.png" group-title="Football",Ghana at Colombia (Arabic)
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=DB4-zh-pB7Lw7yOkwLCznqMoa6gzyOuIwi05zkqFE64&e=1783131020
-#EXTINF:-1 tvg-id="10308" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/col.png" group-title="Football",Ghana at Colombia (Spanish)
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=lejeO0V1sNxDlxO6HFGAkPvRpXWsPZB2YHVBduJaQxg&e=1783131020
-#EXTINF:-1 tvg-id="10319" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-title="Baseball",Boston Red Sox at Los Angeles Angels (English)
-https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=Sq-xHb2bweeIS6t1ZwchBP2BokqecQUgn5kcrPFd_TE&e=1783131020
-#EXTINF:-1 tvg-id="10320" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-title="Baseball",Miami Marlins at Athletics Athletics (English)
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=N_a_iHVQDzj2o96p6FkJSookg9JoBwKq_eW7wXBcnN4&e=1783131020
-#EXTINF:-1 tvg-id="10321" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="Baseball",Milwaukee Brewers at Arizona Diamondbacks (English)
-https://edge2caster.pro/hls/kjhfzua25.m3u8?st=m0W4QZ4sl6zCKInD-fK0g0CBp0Ig0eStD7GAt7SrRtU&e=1783131020
-#EXTINF:-1 tvg-id="10325" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/lv.png" group-title="Basketball",Chicago Sky at Las Vegas Aces (English)
-https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=fFAJPUbKzIPg2kaUxJtvbEvZWwSXgY8_-ydXqA9_KC4&e=1783131019
-#EXTINF:-1 tvg-id="10322" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="Baseball",San Diego Padres at Los Angeles Dodgers (English)
-https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=lc7EGMx413i-LvpuwDqoHAoeGFEWugCQJtplf-Fb6sY&e=1783131019
-#EXTINF:-1 tvg-id="10323" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Baseball",Toronto Blue Jays at Seattle Mariners (English)
-https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=R-Q_BsFaYVYCLUhpI6-4X_ke-nLUTJfNc4CHnWtjq4Q&e=1783131019
-#EXTINF:-1 tvg-id="10328" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="Basketball",Los Angeles Lakers at Golden State Warriors Gold (English)
-https://edge2caster.pro/hls/wfazgsqtrezu66.m3u8?st=5nIcLirIeAz2THIeaW88uHXsrFPTgfzqjzC73FQFh1g&e=1783131019
+https://chatgpt.hereisman.net/playlist/52912/load-playlist
+#EXTINF:-1 tvg-chno="119" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Reds (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Orioles vs Reds (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=KEjkKlz29ATYO1jcqluqFpqZ2CAQZ1Yor3UIhdo8kOE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx%2F&expires=1783207822/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx/116.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Royals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Phillies vs Royals (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=hPHmEAPRkcmWW_nV1AMneDXnBLTtlrFDYRYZ_BLPryU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ%2F&expires=1783207824/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ/117.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Rays vs Astros (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=rIBjLu_avui0GipEj4JXI9PC-UAmz9SSrv9A3YKa6Qc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1783207822/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners - Toronto Blue Jays (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners - Toronto Blue Jays (EMBEDHD)
+https://cdn11.zohanayaan.com:1686/hls/mseattlemariners.m3u8?md5=XN7sPg_BBlOvmEDLYFD0jg&expires=1783209625
+#EXTINF:-1 tvg-chno="131" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Toronto Blue Jays (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Toronto Blue Jays (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/52919/load-playlist
+#EXTINF:-1 tvg-chno="134" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Texas Rangers - Detroit Tigers (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Texas Rangers - Detroit Tigers (EMBEDHD)
+https://cdn11.zohanayaan.com:1686/hls/mtexasrangers.m3u8?md5=NNps44ZZIZhZhklD_wSnUg&expires=1783209624
+#EXTINF:-1 tvg-chno="136" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Texas Rangers vs Detroit Tigers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Texas Rangers vs Detroit Tigers (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/52917/load-playlist
+#EXTINF:-1 tvg-chno="137" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Tigers vs Rangers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=-onNSyLnXK_xlmPs5N_scDvBLNBh7I7lFHyqZBj2TjE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1783207821/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] White Sox vs Guardians (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=5YojImT2lywrejAmVqA0V-CVAExs-O1CPd84Vxd55K0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1783207823/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Sacramento Kings vs Brooklyn Nets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Sacramento Kings vs Brooklyn Nets (FAWA)
+http://193.47.62.42/hls/JKKKQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Utah Jazz vs Atlanta Hawks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Utah Jazz vs Atlanta Hawks (FAWA)
+http://193.47.62.42/hls/JKKKQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Sacramento Kings vs Brooklyn Nets (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Sacramento Kings vs Brooklyn Nets (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/52926/load-playlist
+#EXTINF:-1 tvg-chno="154" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Utah Jazz vs Atlanta Hawks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Utah Jazz vs Atlanta Hawks (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/52927/load-playlist
+#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[Nascar] Nascar Auto Parts Series Cuervo 300 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Nascar] Nascar Auto Parts Series Cuervo 300 (FAWA)
+http://193.47.62.42/hls/JKKKQQ.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Nba Summer League] Sacramento Kings - Brooklyn Nets (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Nba Summer League] Sacramento Kings - Brooklyn Nets (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/msacramentokings.m3u8?md5=TAq3h-ifPbNoKRQVeq7zZA&expires=1783209627
+#EXTINF:-1 tvg-chno="164" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Nba Summer League] Utah Jazz - Atlanta Hawks (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Nba Summer League] Utah Jazz - Atlanta Hawks (EMBEDHD)
+https://cdn7.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=QgCF971dxdT_mqzGcgrd3Q&expires=1783209629
+#EXTINF:-1 tvg-chno="180" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Paraguay vs France, 2026 FIFA World Cup, Round of 16 (SPRTSPASS)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Paraguay vs France, 2026 FIFA World Cup, Round of 16 (SPRTSPASS)
+https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[World Championship] Paraguay vs France (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Championship] Paraguay vs France (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/52924/load-playlist
+#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Canada vs Morocco | Alt Feed 2[De] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Canada vs Morocco | Alt Feed 2[De] (FUTBOLX)
+https://wc.ppvtv.top/stream/18ec5a7f8aa6fd98a2a220b75351a624
+#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Canada vs Morocco | Backup 2[Dut] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Canada vs Morocco | Backup 2[Dut] (FUTBOLX)
+https://wc.ppvtv.top/stream/399f33825429e4a308a487675cb1dc0e
+#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Canada vs Morocco | Ext. Feed 1[Esp] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Canada vs Morocco | Ext. Feed 1[Esp] (FUTBOLX)
+https://wc.ppvtv.top/stream/a0a37af4b8987b3350a24f512b030cd1
+#EXTINF:-1 tvg-chno="186" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Canada vs Morocco | Ext. Feed 3[Ar] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Canada vs Morocco | Ext. Feed 3[Ar] (FUTBOLX)
+https://wc.ppvtv.top/stream/1e5cbe93950e5bd383aa0b3a3a9b9070
+#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Canada vs Morocco | Main Feed[Eng] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Canada vs Morocco | Main Feed[Eng] (FUTBOLX)
+https://wc.ppvtv.top/stream/d9ed9836d108df052cda92250fb34878
+#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Alt Feed 1[Eng] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Alt Feed 1[Eng] (FUTBOLX)
+https://wc.ppvtv.top/stream/a3e51d6fa8b90a1d5521f6a854b7edba
+#EXTINF:-1 tvg-chno="189" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Alt Feed 2[De] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Alt Feed 2[De] (FUTBOLX)
+https://wc.ppvtv.top/stream/e82d3d78738fa89c412b0a004b71862e
+#EXTINF:-1 tvg-chno="190" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Alt Feed 3[Fr] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Alt Feed 3[Fr] (FUTBOLX)
+https://wc.ppvtv.top/stream/5fc26aa5d472d840f1f497e90a295890
+#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Backup 1[Tur] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Backup 1[Tur] (FUTBOLX)
+https://wc.ppvtv.top/stream/2c7bb1dd7ff68bc63ee16fa6d76771ff
+#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Backup 2[Dut] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Backup 2[Dut] (FUTBOLX)
+https://wc.ppvtv.top/stream/f3df0c0494d93be6dd94bcc7214361b0
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Backup 3[Br] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Backup 3[Br] (FUTBOLX)
+https://wc.ppvtv.top/stream/84285ddec5ab57d243c85432b34a7eda
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Ext. Feed 1[Esp] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Ext. Feed 1[Esp] (FUTBOLX)
+https://wc.ppvtv.top/stream/6a8523b528400c7d5a66b42e2d05d432
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Ext. Feed 2[Itl] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Ext. Feed 2[Itl] (FUTBOLX)
+https://wc.ppvtv.top/stream/cb3757eabf843798fc6cdbf83be8782b
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Ext. Feed 3[Ar] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Ext. Feed 3[Ar] (FUTBOLX)
+https://wc.ppvtv.top/stream/30afad8db464768cc4e08308500eb83d
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Paraguay vs France | Main Feed[Eng] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Paraguay vs France | Main Feed[Eng] (FUTBOLX)
+https://wc.ppvtv.top/stream/3bef995aa9fba0542ff827d92fa1d86d
+#EXTINF:-1 tvg-chno="198" tvg-id="Live.Event.us" tvg-name="[World Rugby Nations Cup] Chile vs Romania (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[World Rugby Nations Cup] Chile vs Romania (FAWA)
+http://193.47.62.42/hls/YOOO.m3u8
+#EXTINF:-1 tvg-id="10333" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Baseball",Detroit Tigers at Texas Rangers (English)
+https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?st=VqxLxJBasPAOILOPLesIkOjGut_YwHjv_7Jqy_mZK5w&e=1783216934
+#EXTINF:-1 tvg-id="10334" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Baseball",Toronto Blue Jays at Seattle Mariners (English)
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8?st=A6FEwbD15Kod48LHItiOq05kUf0hr9yis9RZqJc2b_Y&e=1783216934
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/par.png" group-title="Football",France at Paraguay (English)
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?st=ZkbJY7a1myriNvW9yqeEJq6HIuHI8TO1BLfKJ56aeL4&e=1783216933
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/par.png" group-title="Football",France at Paraguay (Arabic)
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8?st=Ownuo2jBkhtccKXYJvqnBXeQJRVd9ubDxW25Pde3CcY&e=1783216934
+#EXTINF:-1 tvg-id="10330" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/par.png" group-title="Football",France at Paraguay (Spanish)
+https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=OlzBcAz8cBIi6oiWNbdb0NNAF7CgLnm96Q0htSBGboQ&e=1783216934
+#EXTINF:-1 tvg-id="10348" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="Basketball",Brooklyn Nets at Sacramento Kings (English)
+https://edgestream2.pro/hls/mlkijfezag65.m3u8?st=OokGes8bjInhahabUhXa4CIlxKWGKVN-os-FOHmu1-w&e=1783216934
+#EXTINF:-1 tvg-id="10349" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png" group-title="Basketball",Atlanta Hawks at Utah Jazz (English)
+https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?st=11_9TAV-YES_rD3N5NwMN61U4e9NmDN7Qtj33_L4RII&e=1783216934
+#EXTINF:-1 tvg-id="10335" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="Baseball",Baltimore Orioles at Cincinnati Reds (English)
+https://edgestream3.pro/hls/bzagLHzach19.m3u8?st=zMZdotC6x3gGgqw0jAw_T4nynDyr0ifwgS110gwTRgE&e=1783216933
+#EXTINF:-1 tvg-id="10336" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png" group-title="Baseball",Chicago White Sox at Cleveland Guardians (English)
+https://edgestream1.pro/hls/jkzahzadach20.m3u8?st=0jepONsW6QVCWCoVd5zkl-O2by_vP28-BX9eaVkHbng&e=1783216933
+#EXTINF:-1 tvg-id="10337" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-title="Baseball",Tampa Bay Rays at Houston Astros (English)
+https://edgestream1.pro/hls/ojzkajnach21.m3u8?st=pKHWGtfJO2zJnblJZvl_jc4xoyGk7hq0-vLCpVmUFJ4&e=1783216933
+#EXTINF:-1 tvg-id="10338" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Baseball",New York Mets at Atlanta Braves (English)
+https://edgestream3.pro/hls/ijfnakfidch22.m3u8?st=tCeF50VDOuTgc2MjZ6ej165nwmAvozfgNUhANRKGvm0&e=1783216933
+#EXTINF:-1 tvg-id="10339" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Baseball",St. Louis Cardinals at Chicago Cubs (English)
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?st=Fp3ldmXaq8BSTR0iemgCU8L0ltmOy2ROPmGgOHSdEm8&e=1783216933
+#EXTINF:-1 tvg-id="10340" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="Baseball",Philadelphia Phillies at Kansas City Royals (English)
+https://edgestream3.pro/hls/fskjanach24.m3u8?st=Bd5jNxRLh531C2u1_eoNCaJXOwzazpbKzG2ip2scO-Y&e=1783216932
+#EXTINF:-1 tvg-id="10341" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Baseball",San Francisco Giants at Colorado Rockies (English)
+https://edgestream3.pro/hls/kjhfzua25.m3u8?st=f3YA2y462Rk71BGOLe6s_qJ2-lLROyY-CQKkJO9ol64&e=1783216932
+#EXTINF:-1 tvg-id="10354" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png" group-title="Basketball",Portland Fire at Seattle Storm (English)
+https://edgestream1.pro/hls/ztyarueaghj71.m3u8?st=xM6bpUPf6E26eCVPvFg9PIkkj-zg737o8zKskb54gUY&e=1783216932
+#EXTINF:-1 tvg-id="10342" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-title="Baseball",Boston Red Sox at Los Angeles Angels (English)
+https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?st=knAcsiMfFcdM4IN4NvmoRqkGUMvVcxwQ8_rgyNIWZJk&e=1783216932
+#EXTINF:-1 tvg-id="10343" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-title="Baseball",Miami Marlins at Athletics Athletics (English)
+https://edgestream1.pro/hls/jzabfazkbf27.m3u8?st=-K4vWEIdoXS3LyTU0HsAtdoe1NyCAcoCadB9GPs1VsQ&e=1783216932
+#EXTINF:-1 tvg-id="10344" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="Baseball",Milwaukee Brewers at Arizona Diamondbacks (English)
+https://edgestream1.pro/hls/hefbafbakx28.m3u8?st=ynTvCr1Y3deCVTULoX5VP69kzRa661q-iKFqw0kvbUM&e=1783216932
+#EXTINF:-1 tvg-id="10345" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="Baseball",San Diego Padres at Los Angeles Dodgers (English)
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?st=DZscEbNDBf1cQat71oCIxp-zRnDS2H7440gJjUV78-k&e=1783216932
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",World Cup
+https://customer-k7esp6o17le0nad2.cloudflarestream.com/e55558e0ecd91f1c75bfb02b727ff650/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR O'Reilly Auto Parts Series - Race
+https://out-of-touch.b-cdn.net/out/v2/8fb73e443bc4390c16de753221ca86e1/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="MMA.Junkie.distro" tvg-logo="http://epg.one/img/5167.png" tvg-rec="0",MM Спорт HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/13054/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="TV.4.al" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
