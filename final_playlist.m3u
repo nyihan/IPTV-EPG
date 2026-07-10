@@ -13,7 +13,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 group-title="🎖SPECIAL WC OTT🎖" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5NmRNVKxQBtJ5khSpvfWEvtnC-jDrckIBHt2-uGQpXdwyuojlW3J3eJB&s=10" tvg-id="TSN.1.ca2", TSN 1 C🎖
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?
-#EXTINF:-1 group-title="🎖SPECIAL WC OTT🎖" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5NmRNVKxQBtJ5khSpvfWEvtnC-jDrckIBHt2-uGQpXdwyuojlW3J3eJB&s=10" tvg-id="TSN.5.HD.ca2", TSN 5🎖
+#EXTINF:-1 group-title="🎖SPECIAL WC OTT🎖" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5NmRNVKxQBtJ5khSpvfWEvtnC-jDrckIBHt2-uGQpXdwyuojlW3J3eJB&s=10" tvg-id="TSN.5.ca2", TSN 5🎖
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 #EXTINF:-1 group-title="🎖SPECIAL WC OTT🎖" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5NmRNVKxQBtJ5khSpvfWEvtnC-jDrckIBHt2-uGQpXdwyuojlW3J3eJB&s=10" tvg-id="ITV1.ch", ITV 1🎖
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
@@ -61,7 +61,7 @@ https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?
 #EXTINF:-1 group-title="🏆VIP WC OTT🏆" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" tvg-id="FOX.LIFE.HD.mt", FOX LIVE 4K
 https://inproviszon.st/fox-sports-1-4k.m3u8?
-#EXTINF:-1 group-title="🏆VIP WC OTT🏆" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" tvg-id="FS1.Fox.Sports.1.HD.us2", FS1 4K
+#EXTINF:-1 group-title="🏆VIP WC OTT🏆" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" tvg-id="FS1.HD.us2", FS1 4K
 https://inproviszon.st/fox-sports-1-4k.m3u8?
 #EXTINF:-1 group-title="🏆VIP WC OTT🏆" tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" tvg-id="Telemundo.co", TELEMUNDO - Vpn US 🇺🇲
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
@@ -521,7 +521,7 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 group-title="FIGHT SPORTS✨" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png" tvg-id="LIVE.105.us", M LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 group-title="FIGHT SPORTS✨" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" tvg-id="FI:.DAZN.Combat.be", DAZN COMBAT
+#EXTINF:-1 group-title="FIGHT SPORTS✨" tvg-logo="https://i.ibb.co.com/DLK0y9f/dazncombat.png" tvg-id="DK:.DAZN.Combat.be", DAZN COMBAT
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="FIGHT SPORTS✨" tvg-logo="https://i.ibb.co.com/hBDRkbp/hboxing.png", HBO BOXING
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
@@ -835,7 +835,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j48alu8yvp/
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wqvyt5lprt/out/v1/0496ddfe63a643d5ace57320ea7fe4e9/cenc.mpd
 #EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Edge_HD_East._SL170_FMpng_.png" tvg-id="Starz.Edge.HD.us2", Starz Edge
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cwefqpv0am/out/v1/5bb89226fb40403e87e6470cb61b35e4/cenc.mpd
-#EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Encore_HD_East._SL170_FMpng_.png" tvg-id="Starz.Encore.(Pacific).us2", Starz Encore
+#EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Encore_HD_East._SL170_FMpng_.png" tvg-id="Starz.Encore.HD.us2", Starz Encore
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uqhsayulr3/out/v1/29d005cdd41749f4901ddb9f94c96ee3/cenc.mpd
 #EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Comedy_HD_East._SL170_FMpng_.png" tvg-id="Starz.Comedy.HD.us2", Starz Comedy
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
@@ -851,7 +851,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/2bsytxoitz/
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd
 #EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png" tvg-id="ScreenPix.Voices.us2", Screenpix
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
-#EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" tvg-id="MGM.Presents.us2", MGM+
+#EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" tvg-id="MGM+.Marquee.HD.us2", MGM+
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 #EXTINF:-1 group-title="VIP ENTERTAINMENT⭐" tvg-logo="https://i.imgur.com/3fsnLQn.png" tvg-id="MGM+.Drive-In.us2", MGM+ Drive In
 https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
@@ -1297,9 +1297,9 @@ https://tmaxapp.site/skynews.m3u8
 https://tmaxapp.site/sportsnet360.m3u8
 #EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" tvg-id="Sportsnet.West.HD.ca2", Sportsnet West
 https://tmaxapp.site/sportsnetwest.m3u8
-#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/360_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg" tvg-id="Digi.Sport.1.ro", DIGI SPORT 1
+#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/360_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg" tvg-id="Digi.Sport.1.HD.ro", DIGI SPORT 1
 http://ronaldo.tvfor.pro/UsEnSMArci/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/360_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg" tvg-id="Digi.Sport.2.HD.ro", DIGI SPORT 2
+#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/360_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg" tvg-id="Digi.Sport.2.ro", DIGI SPORT 2
 http://ronaldo.tvfor.pro/GOnDepEJaP/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/360_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg" tvg-id="Digi.Sport.3.ro", DIGI SPORT 3
 http://ronaldo.tvfor.pro/lvErOUTOEC/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -1329,7 +1329,7 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" tvg-id="beIN.SPORTS.5.hk", beIN Sports TR 5
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" tvg-id="beIN.SPORTS.MAX.9.fr", beIN Sports TR Max
+#EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" tvg-id="beIN.SPORTS.MAX.5.fr", beIN Sports TR Max
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 group-title="Simple Sports💠" tvg-logo="https://i.postimg.cc/xdjDpL1X/IMG-2488.png" tvg-id="beINSportsXtra.au", Bein Sports Xtra USA (amagi)
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
@@ -1853,94 +1853,176 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="canadavsmorocco2100somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 21:00 (SOMOY TV HD)
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Canada Championship] CS Saint-Laurent vs Forge (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Canada Championship] CS Saint-Laurent vs Forge (FAWA)
-http://193.47.62.42/hls/ZRZRZRQ.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed 1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Chile Copa] Nublense vs OHiggins (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Chile Copa] Nublense vs OHiggins (FAWA)
+http://193.47.62.41/hls/LCCC.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed (STRMCNTR)
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed 1 (XYZSTRM)
 https://pacquiao.inproviszon.st/bein-xyz-waUvqaAAC.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed (STRMCNTR)
+https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | BBC (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | BBC (XYZSTRM)
 https://pacquiao.inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 1 (XYZSTRM)
 https://pacquiao.inproviszon.st/fox-usa.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)
 https://247v2.xyzstreams.st/?stream_id=foxwnyw&pro_id=sling&index-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 1 (XYZSTRM)
 https://pacquiao.inproviszon.st/itv-xyz-waUvqaAAC.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | ITV 2 (XYZSTRM)
 https://247.xyzstreams.st/?stream_id=itv1&pro_id=itv&index.mpd
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed | TSN (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed | TSN (XYZSTRM)
 https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed (XYZSTRM)
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] France vs Morocco (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] France vs Morocco (FAWA)
+http://193.47.62.47/hls/VQJMMMCZckkkqqq.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] France vs Morocco (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] France vs Morocco (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/53123/load-playlist
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] France vs Morocco Adaptative (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] France vs Morocco Adaptative (FAWA)
+https://1a-1791.com/live/hd37fm8g/slot-117/jqbi-j3u4/chunklist.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] France vs Morocco HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] France vs Morocco HD (FAWA)
+https://pullsgp.yyzb456.top/live/stream-7988511_lhd.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed (STRMCNTR)
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed (XYZSTRM)
 https://pacquiao.inproviszon.st/bein12fr-xyz.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed | Telemundo (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed | Telemundo (XYZSTRM)
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (STRMCNTR)
+https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed | Telemundo (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed | Telemundo (XYZSTRM)
 https://pacquiao.inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
-http://193.47.62.194/hls/vavavava.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
-http://193.47.62.194/hls/vavavavaq.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] San Francisco Giants vs Toronto Blue Jays (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] San Francisco Giants vs Toronto Blue Jays (FAWA)
-http://193.47.62.42/hls/ZRRR.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Astros vs Nationals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Astros vs Nationals (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=I5RjVwuLHF1h7YOf55UmiMKCpLXuPgFg7lTwtXHwDx4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%2F&expires=1783553449/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61/112.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Tigers (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=E_aFBTloYikhCTf350KWzGjHHtaNKzS1i3SKYhmxOOc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1783553447/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Braves vs Pirates (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Braves vs Pirates (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=QvzjavbuS02-au9yiTI50hn1XCMsuouNewfidOF3iJ4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%2F&expires=1783553447/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D/113.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Orioles (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cubs vs Orioles (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=KPHKUsn6naVBukpq99xHdyJIgr-rYezRsI1yoqj1XpE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z%2F&expires=1783553447/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z/237.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Jays vs Giants (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Jays vs Giants (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=b96ZoQtTxH15gV6Ncsju19rNdOXLmnSEiF0bydr5GCA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F&expires=1783553446/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq/107.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Marlins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Mariners vs Marlins (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=NHxK0mP1gB13ijhMQGWYDvCBjtyrEuHe65wUwOcw-m4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1783553448/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Reds (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Phillies vs Reds (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=nXet6bn-wWDNehhua6269MRfFmVmXOyAH65eJVceAdc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx%2F&expires=1783553449/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx/116.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Red Sox vs White Sox (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Red Sox vs White Sox (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=gGlpv1U7aY9bLJUAxE5ug2b1wWi611ELl9Wf7l9wQIk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F&expires=1783553450/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb/123.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Mets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Royals vs Mets (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=pLfQBbvEqc6JPLZ5KRON8LCo9lf9NELTkuQcAK1OxPk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1783553449/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants - Toronto Blue Jays (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Francisco Giants - Toronto Blue Jays (EMBEDHD)
-https://cdn12.zohanayaan.com:1686/hls/msanfranciscogiants.m3u8?md5=ZNXZkKL9hC4kwQHeu-YZFA&expires=1783551616
-#EXTINF:-1 tvg-chno="74" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants vs Toronto Blue Jays (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Francisco Giants vs Toronto Blue Jays (iSTRMEAST)
-https://chatgpt.hereisman.net/playlist/53075/load-playlist
-#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Yankees vs Rays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Yankees vs Rays (WEBCAST)
-https://webcast-origin.b-cdn.net/bcdn_token=lAmJJE8U5YTl4x_KX957TeGePcfpcgJ5cpVSxSx1hAM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1783553448/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="Live.Event.us" tvg-name="[Morocco Botola Pro] FAR Rabat vs Stade Marocain (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Morocco Botola Pro] FAR Rabat vs Stade Marocain (FAWA)
-http://193.47.62.42/hls/ZRZRZR.m3u8
-#EXTINF:-1 tvg-id="10420" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="Baseball",Toronto Blue Jays at San Francisco Giants (English)
-https://edgestream3.pro/hls/dazhfiach15.m3u8?st=d_eGFW6fs00YyjO3WR7euU2HBOmTA7uIjZUfGmY7BxM&e=1783563207
-#EXTINF:-1 tvg-id="10421" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="Baseball",Chicago Cubs at Baltimore Orioles (English)
-https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?st=6b8dIyLiu_3eurfV3-zamh9HN56nN59r2m6KgfMvvc4&e=1783563206
-#EXTINF:-1 tvg-id="10422" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-title="Baseball",Athletics Athletics at Detroit Tigers (English)
-https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?st=NaxckwFTGJ05Xa-NOKDOrENvRatA15PoRSCZi1Dfd_s&e=1783563206
-#EXTINF:-1 tvg-id="10423" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" group-title="Baseball",Atlanta Braves at Pittsburgh Pirates (English)
-https://edgestream3.pro/hls/Czajafjihafch18.m3u8?st=CfiJoWvf_EVQom0XxQhyEscHrGK7qO1KqhR3UN_yrms&e=1783563206
-#EXTINF:-1 tvg-id="10424" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-title="Baseball",New York Yankees at Tampa Bay Rays (English)
-https://edgestream2.pro/hls/bzagLHzach19.m3u8?st=2XZrQ6wK9avBoyROjQW-vAHjS7VbBnB0dkqMbPk_b0s&e=1783563206
-#EXTINF:-1 tvg-id="10425" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" group-title="Baseball",Seattle Mariners at Miami Marlins (English)
-https://edgestream2.pro/hls/jkzahzadach20.m3u8?st=UmEnBbSKrGStZTwbrpxSlDlB-BWhXCSVyhDrFh3vQIU&e=1783563206
-#EXTINF:-1 tvg-id="10426" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" group-title="Baseball",Houston Astros at Washington Nationals (English)
-https://edgestream3.pro/hls/ojzkajnach21.m3u8?st=snNdgeqZ5TvQ-IvITcAaToaBrbnmYgqTFBp9VDY4oXI&e=1783563205
-#EXTINF:-1 tvg-id="10435" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/tor.png" group-title="Basketball",Golden State Valkyries at Toronto Tempo (English)
-https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?st=fxWxmUR-51I2tFHBFPKniNfH49bN8YfZPH6nokEss4s&e=1783563205
-#EXTINF:-1 tvg-id="10427" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="Baseball",Philadelphia Phillies at Cincinnati Reds (English)
-https://edgestream1.pro/hls/ijfnakfidch22.m3u8?st=I0gKd6Vw_BNYRLyVCbTQtQAbdsJdvEoOeek7AzmUgUI&e=1783563205
-#EXTINF:-1 tvg-id="10428" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png" group-title="Baseball",Kansas City Royals at New York Mets (English)
-https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?st=LcyuScMEiUUlTtWlr2r9b3cJNRaRGTXDCDI6P53JPZc&e=1783563205
-#EXTINF:-1 tvg-id="10436" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/con.png" group-title="Basketball",Minnesota Lynx at Connecticut Sun (English)
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?st=C1Axvr3OnCl1PvYFWY1azjZff4_TSp7_b0d1wlbsMdQ&e=1783563205
-#EXTINF:-1 tvg-id="10429" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" group-title="Baseball",Boston Red Sox at Chicago White Sox (English)
-https://edgestream1.pro/hls/fskjanach24.m3u8?st=0OxOHfmxFdYFey-oS2w70rOUy5BFgajkn4iX0DqU91M&e=1783563205
-#EXTINF:-1 tvg-id="10430" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-title="Baseball",Cleveland Guardians at Minnesota Twins (English)
-https://edgestream3.pro/hls/kjhfzua25.m3u8?st=44dYdVKzMLLz37jREA2fAbzyq2UwgrmS7lqpxrqUNDI&e=1783563205
-#EXTINF:-1 tvg-id="10431" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" group-title="Baseball",Milwaukee Brewers at St. Louis Cardinals (English)
-https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?st=810hq8LAoXGtgvSLp9mc0Y4TYX_uOWYyKcdgnsxUB78&e=1783563205
-#EXTINF:-1 tvg-id="10432" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Baseball",Los Angeles Angels at Texas Rangers (English)
-https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=7BZZ1lGujG1msCUgJW5ihXShB1SLHeaEU9xHrseLiHM&e=1783563204
-#EXTINF:-1 tvg-id="10433" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="Baseball",Arizona Diamondbacks at San Diego Padres (English)
-https://edgestream1.pro/hls/hefbafbakx28.m3u8?st=Z4Cr08GzmyaXZ39YWjsK-73SkQB_mLl_YlTcHBXKpeg&e=1783563204
-#EXTINF:-1 tvg-id="10437" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/la.png" group-title="Basketball",Indiana Fever at Los Angeles Sparks (English)
-https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?st=49Ijr73QoRecLjFe5tmk0YWMJevuCIpAygdEdYpAwOQ&e=1783563204
-#EXTINF:-1 tvg-id="10434" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="Baseball",Colorado Rockies at Los Angeles Dodgers (English)
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?st=EOyuGiGkF05eyTO4vM1y7HcNJr96ib-SH5awgjf35e0&e=1783563204
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] France - Morocco (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[Fifa World Cup] France - Morocco (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=wBS1TZ1KAnvKjiAAhvUJcw&expires=1783643456
+#EXTINF:-1 tvg-chno="60" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA ISCO Championship (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA ISCO Championship (FAWA)
+http://193.47.62.41/hls/ddddv.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Cincinnati Reds vs Philadelphia Phillies (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Cincinnati Reds vs Philadelphia Phillies (FAWA)
+http://193.47.62.41/hls/LCCCQQ.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Detroit Tigers vs Athletics (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Detroit Tigers vs Athletics (FAWA)
+http://193.47.62.41/hls/OJJJQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Miami Marlins vs Seattle Mariners (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Miami Marlins vs Seattle Mariners (FAWA)
+http://193.47.62.41/hls/OJJJQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Angels vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Angels vs Rangers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=30fp00aL-qR86cTW1kA9QMzAr7GEH6zQnOV5KGMce9A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1783641652/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs San Diego Padres (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Arizona Diamondbacks vs San Diego Padres (ROXIE)
+https://admin.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Tigers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=EZEm282vQqK4PDlVP4OiN1fxQaK397y-8L_e9VmW_Qs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1783641650/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs Pittsburgh Pirates (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Atlanta Braves vs Pittsburgh Pirates (ROXIE)
+https://admin.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles - Chicago Cubs (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Baltimore Orioles - Chicago Cubs (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=jwtrqfJk27W_RT4Z0BZIwQ&expires=1783643460
+#EXTINF:-1 tvg-chno="83" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs Chicago White Sox (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox vs Chicago White Sox (ROXIE)
+https://admin.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Brewers vs Cardinals (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=Bubpds1x62TVi62GCqz-AC8DkHagzN-tFOu6MfS0rvY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1783641651/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds - Philadelphia Phillies (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds - Philadelphia Phillies (EMBEDHD)
+https://cdn15.zohanayaan.com:1686/hls/mcincinnatireds.m3u8?md5=8m5lTNY4MGyQtmOzcjPNPQ&expires=1783645230
+#EXTINF:-1 tvg-chno="90" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Minnesota Twins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Minnesota Twins (ROXIE)
+https://admin.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies vs San Francisco Giants (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Colorado Rockies vs San Francisco Giants (ROXIE)
+https://admin.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers - Athletics (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Detroit Tigers - Athletics (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/mdetroittigers.m3u8?md5=5qtgQJT0cYiEtxKIFnIgyg&expires=1783643461
+#EXTINF:-1 tvg-chno="95" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers vs Athletics (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Detroit Tigers vs Athletics (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/53131/load-playlist
+#EXTINF:-1 tvg-chno="99" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Texas Rangers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels vs Texas Rangers (ROXIE)
+https://admin.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Marlins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Mariners vs Marlins (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=M_u0h7ChNyL9MIw0F1jNwGYfvleJtOTPKu9oTRiwI_M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1783641650/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Miami Marlins - Seattle Mariners (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Miami Marlins - Seattle Mariners (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/mmiamimarlins.m3u8?md5=5jd5_fp93JMvm8alMPW2cg&expires=1783643462
+#EXTINF:-1 tvg-chno="103" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Miami Marlins vs Seattle Mariners (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Miami Marlins vs Seattle Mariners (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/53130/load-playlist
+#EXTINF:-1 tvg-chno="104" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs St. Louis Cardinals (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers vs St. Louis Cardinals (ROXIE)
+https://admin.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Tampa Bay Rays (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees vs Tampa Bay Rays (ROXIE)
+https://admin.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs Cincinnati Reds (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Philadelphia Phillies vs Cincinnati Reds (ROXIE)
+https://admin.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Reds (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Phillies vs Reds (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=TjBlyhvhOhfmVo57sFE5a7jsSJMkODCJ3GihFKpl_Yo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx%2F&expires=1783641651/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHKDzWNRwijM167eKC3XlIx/116.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Miami Marlins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Miami Marlins (ROXIE)
+https://admin.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Dallas Mavericks vs Golden State Warriors (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Dallas Mavericks vs Golden State Warriors (FAWA)
+https://pul-tenm.gkykp.com/live/hd-en-2-3923417.m3u8?txSecret=432c3a6f3c2cf1db3a9e4b6ef95d38c2&txTime=6A5176A0
+#EXTINF:-1 tvg-chno="134" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Orlando Magic vs Charlotte Hornets (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Orlando Magic vs Charlotte Hornets (FAWA)
+https://pul-tenm.gkykp.com/live/hd-en-2-3923419.m3u8?txSecret=b3c0e1d937d682c05cf153ff72cef6b6&txTime=6A5176A0
+#EXTINF:-1 tvg-chno="135" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Philadelphia 76ers vs Detroit Pistons (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Philadelphia 76ers vs Detroit Pistons (FAWA)
+https://pul-tenm.gkykp.com/live/sd-2-3923414.m3u8?txSecret=77e562e3d9b30cdc098fcb763baf5e19&txTime=6A5167A0
+#EXTINF:-1 tvg-chno="138" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Atlanta Hawks vs San Antonio Spurs (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Atlanta Hawks vs San Antonio Spurs (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/53126/load-playlist
+#EXTINF:-1 tvg-chno="144" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Summer League] Philadelphia 76ers vs Detroit Pistons (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Summer League] Philadelphia 76ers vs Detroit Pistons (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/53127/load-playlist
+#EXTINF:-1 tvg-chno="150" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Detroit Pistons vs Philadelphia 76ers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Detroit Pistons vs Philadelphia 76ers (ROXIE)
+https://tedesco.uniteesports.com/nba3.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Golden State Warriors vs Dallas Mavericks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Golden State Warriors vs Dallas Mavericks (ROXIE)
+https://tedesco.uniteesports.com/nba.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Minnesota Timberwolves vs New Orleans Pelicans (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Minnesota Timberwolves vs New Orleans Pelicans (ROXIE)
+https://tedesco.uniteesports.com/nba.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)
+https://tedesco.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Atlanta Hawks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] San Antonio Spurs vs Atlanta Hawks (ROXIE)
+https://tedesco.uniteesports.com/nba2.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz vs Washington Wizards (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz vs Washington Wizards (ROXIE)
+https://tedesco.uniteesports.com/nba.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Nba Summer League] Dallas Mavericks - Golden State Warriors (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Nba Summer League] Dallas Mavericks - Golden State Warriors (EMBEDHD)
+https://cdn13.zohanayaan.com:1686/hls/mdallasmavericks.m3u8?md5=57nRXWC7uQ6I-4x_Z2Lh6Q&expires=1783643463
+#EXTINF:-1 tvg-chno="160" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Nba Summer League] Philadelphia 76ers - Detroit Pistons (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Nba Summer League] Philadelphia 76ers - Detroit Pistons (EMBEDHD)
+https://cdn13.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=NMH69z1bNgW96FRc5yHhzw&expires=1783643458
+#EXTINF:-1 tvg-chno="162" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] France vs Morocco (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] France vs Morocco (ROXIE)
+https://admin2.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="10453" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" group-title="Basketball",San Antonio Spurs at Atlanta Hawks (English)
+https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?st=2-e3qFD6NpB39jQTM12-ecXXglLYPQ1VtMc_K966EUA&e=1783653018
+#EXTINF:-1 tvg-id="10454" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" group-title="Basketball",Detroit Pistons at Philadelphia 76ers (English)
+https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?st=wQsggm4YzrzMgys_fSv2LGCaTd-Mt-VFP0STSe7otE0&e=1783653018
+#EXTINF:-1 tvg-id="10445" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-title="Baseball",Athletics Athletics at Detroit Tigers (English)
+https://edgestream2.pro/hls/ojzkajnach21.m3u8?st=wpTAoUDB1MSXceF-C18TjlnCXl8SsNb32dWrZXoa0HE&e=1783653018
+#EXTINF:-1 tvg-id="10446" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" group-title="Baseball",Seattle Mariners at Miami Marlins (English)
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8?st=-H4w4eirdds7ZVH9MFtY-aH06_kuzku-8cPFtLe5eD8&e=1783653018
+#EXTINF:-1 tvg-id="10455" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="Basketball",Golden State Warriors at Dallas Mavericks (English)
+https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?st=pAvB3zskJNHlkQl34An5Y7wScBJaH0Aiffq68HlQ6VM&e=1783653018
+#EXTINF:-1 tvg-id="10447" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="Baseball",Philadelphia Phillies at Cincinnati Reds (English)
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?st=xs2H-l_iTR_WixWAKDmJ3YkB2jbwA8dE1Tui6D8VWIk&e=1783653018
+#EXTINF:-1 tvg-id="10456" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" group-title="Basketball",Charlotte Hornets at Orlando Magic (English)
+https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?st=9hXZY0WE-NtnGbim8oz2UL_NsZraLFufJDscwJbBOMw&e=1783653018
+#EXTINF:-1 tvg-id="10448" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" group-title="Baseball",Milwaukee Brewers at St. Louis Cardinals (English)
+https://edgestream2.pro/hls/fskjanach24.m3u8?st=3y7qLtWarw6jbBywPR7d-MZL6AjYm6ik1ZGy-oJ9_uE&e=1783653017
+#EXTINF:-1 tvg-id="10459" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/atl.png" group-title="Basketball",Seattle Storm at Atlanta Dream (English)
+https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?st=diZH14nYJx_QF_pfbRbdeEMd6snG9k9NAAmfeppLvXE&e=1783653017
+#EXTINF:-1 tvg-id="10449" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Baseball",Los Angeles Angels at Texas Rangers (English)
+https://edgestream1.pro/hls/kjhfzua25.m3u8?st=FPfTl2cTza2VuUvh-rHWmjqkrNcomksiR5AaNVH99sM&e=1783653017
+#EXTINF:-1 tvg-id="10457" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="Basketball",Utah Jazz at Washington Wizards (English)
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?st=Wf9mX9WHnr-q494X8kKqrpbGPl0wtKn8kgEHrOsuLcA&e=1783653017
+#EXTINF:-1 tvg-id="10450" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="Baseball",Arizona Diamondbacks at San Diego Padres (English)
+https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?st=i6g-ypSKx6yVxNjbsozltkSzac3uyK35VCs8GuwkBLc&e=1783653017
+#EXTINF:-1 tvg-id="10451" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="Baseball",Colorado Rockies at San Francisco Giants (English)
+https://edgestream3.pro/hls/jzabfazkbf27.m3u8?st=lXl7ZvG29_69kQXbHt1rJi0oVamOZHHe0T8mz2eJBT8&e=1783653016
+#EXTINF:-1 tvg-id="10460" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png" group-title="Basketball",Indiana Fever at Phoenix Mercury (English)
+https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?st=J9SWJM-cNcA1H0_m7WBTLdZ94OkNyVTH5ao1WPftAyw&e=1783653016
+#EXTINF:-1 tvg-id="10461" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png" group-title="Basketball",Las Vegas Aces at Portland Fire (English)
+https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?st=Ad5FMrqlT_jL205PJnKMJuKfoZRXpqIEM1-SMlMmh6w&e=1783653016
+#EXTINF:-1 tvg-id="10458" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png" group-title="Basketball",Sacramento Kings at LA Clippers (English)
+https://edgestream2.pro/hls/ztyarueaghj71.m3u8?st=Q_4_hJ06mQ9FRHHXZgAZ-hzj_1Ka1QtG334ryzNVqqI&e=1783653016
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Boston Red Sox vs Chicago White Sox
+https://admin.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Philadelphia Phillies vs Cincinnati Reds
+https://admin.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Yankees vs Tampa Bay Rays
+https://admin.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Milwaukee Brewers vs St. Louis Cardinals
+https://admin.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Colorado Rockies vs San Francisco Giants
+https://admin.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Athletics vs Detroit Tigers
+https://admin.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Los Angeles Angels vs Texas Rangers
+https://admin.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Arizona Diamondbacks vs San Diego Padres
+https://admin.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Seattle Mariners vs Miami Marlins
+https://admin.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Cleveland Guardians vs Minnesota Twins
+https://admin.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",WOO Sprint Cars
+https://admin.formaturamaxi.com.br/flo.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="CMM.TV.es" tvg-logo="http://epg.one/img/5167.png" tvg-rec="0",MM Спорт HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/13054/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="TV.4.al" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
@@ -2347,7 +2429,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/15155/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="5908" tvg-logo="http://epg.one/img/5908.png" tvg-rec="0",Триколор Спорт 17
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/15156/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="T18...fr" tvg-logo="http://epg.one/img/5909.png" tvg-rec="0",Триколор Спорт 18
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="T18..fr" tvg-logo="http://epg.one/img/5909.png" tvg-rec="0",Триколор Спорт 18
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/15157/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="K19.at" tvg-logo="http://epg.one/img/5910.png" tvg-rec="0",Триколор Спорт 19
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/15158/index.m3u8
@@ -2805,13 +2887,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19113/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Eurosport.2.I.ch" tvg-logo="http://epg.one/img/6544.png" tvg-rec="0",Eurosport 2 HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19116/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.One.HD.ca2" tvg-logo="http://epg.one/img/3581.png" tvg-rec="0",Sportsnet ONE HD CA
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.One.ca2" tvg-logo="http://epg.one/img/3581.png" tvg-rec="0",Sportsnet ONE HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6438/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="http://epg.one/img/3582.png" tvg-rec="0",Sportsnet Ontario HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6439/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.360.HD.ca2" tvg-logo="http://epg.one/img/3605.png" tvg-rec="0",Sportsnet 360 HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6462/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.East.HD.ca2" tvg-logo="http://epg.one/img/3620.png" tvg-rec="0",Sportsnet East HD CA
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.East.ca2" tvg-logo="http://epg.one/img/3620.png" tvg-rec="0",Sportsnet East HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6477/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.West.HD.ca2" tvg-logo="http://epg.one/img/3621.png" tvg-rec="0",Sportsnet West HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6478/index.m3u8
@@ -2921,9 +3003,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/31953/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="W-sport.lu" tvg-logo="http://epg.one/img/11440.png" tvg-rec="0",W-Sport HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/31959/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Digi.Sport.1.ro" tvg-logo="http://epg.one/img/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Digi.Sport.1.HD.ro" tvg-logo="http://epg.one/img/2907.png" tvg-rec="3",DIGI Sport 1 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2523/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Digi.Sport.2.HD.ro" tvg-logo="http://epg.one/img/2906.png" tvg-rec="3",DIGI Sport 2 HD RO
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Digi.Sport.2.ro" tvg-logo="http://epg.one/img/2906.png" tvg-rec="3",DIGI Sport 2 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2522/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Digi.Sport.3.ro" tvg-logo="http://epg.one/img/2908.png" tvg-rec="3",DIGI Sport 3 HD RO
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2524/index.m3u8
@@ -2945,9 +3027,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/7323/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://epg.one/img/4560.png" tvg-rec="0",CBS Sports Network HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/7324/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.World.HD.ca2" tvg-logo="http://epg.one/img/4561.png" tvg-rec="0",NBC Sports Network HD US
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.World.ca2" tvg-logo="http://epg.one/img/4561.png" tvg-rec="0",NBC Sports Network HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/7327/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.World.HD.ca2" tvg-logo="http://epg.one/img/4801.png" tvg-rec="0",SportsNet New York HD US
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Sportsnet.World.ca2" tvg-logo="http://epg.one/img/4801.png" tvg-rec="0",SportsNet New York HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/11107/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-logo="http://epg.one/img/4802.png" tvg-rec="0",Spectrum SportsNet HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/11108/index.m3u8
@@ -3001,7 +3083,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/31053/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="http://epg.one/img/9219.png" tvg-rec="0",beIN Sports 7 US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/31054/index.m3u8
-#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Monumental.Sports.Network.2.HD.us2" tvg-logo="http://epg.one/img/9221.png" tvg-rec="0",Monumental Sports Network HD US
+#EXTINF:0 group-title="Sport from Russia GP" tvg-id="Monumental.Sports.Network.HD.us2" tvg-logo="http://epg.one/img/9221.png" tvg-rec="0",Monumental Sports Network HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/31056/index.m3u8
 #EXTINF:0 group-title="Sport from Russia GP" tvg-id="beINSports1.au" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6781/index.m3u8
