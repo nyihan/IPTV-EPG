@@ -1,43 +1,41 @@
-name: Auto Generate Final M3U Playlist
+name: Daily Myanmar EPG & Playlist Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 17 * * *' # Runs daily at 17:30 UTC (00:00 Myanmar Standard Time)
   workflow_dispatch:
 
 jobs:
-  generate-playlist:
+  build-and-sync-epg:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '18'
+          python-version: '3.11'
 
       - name: Install Dependencies
-        run: npm install
+        run: pip install requests
 
-      - name: Run Smart M3U Generator
-        # API Key များ မလိုအပ်တော့သဖြင့် env အပိုင်းကို ဖြုတ်ထားပါသည်
-        run: node generate_mapping.js
+      - name: Generate Myanmar Standard Time (+06:30) EPG
+        # This builds epg.xml.gz with Myanmar timezone and English transliteration
+        # iu-ott.site ဆီသို့ လုံးဝ request မပို့သောကြောင့် Cloudflare Bot Block လုံးဝ မခံရပါ
+        run: python build_epg.py final_playlist.m3u epg.xml.gz
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # JSON အစား M3U ဖိုင်အသစ်ကိုသာ တင်ပေးမည်
-          git add final_playlist.m3u
+          git add epg.xml.gz final_playlist.m3u
           
-          # အပြောင်းအလဲရှိလျှင် Commit လုပ်မည်
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Final Playlist with EPG"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Daily EPG (MMT +06:30)"
           
-          # Error မတက်စေရန် Pull အရင်လုပ်ပြီးမှ Push မည်
           git pull --rebase origin main
           git push
